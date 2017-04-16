@@ -1,0 +1,22 @@
+{
+  "name": "music-for-airports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "music-for-airports.js",
+  "scripts": {
+    "start": "webpack-dev-server --progress",
+    "build": "webpack -p"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mohayonao/web-audio-api-shim": "^0.3.0",
+    "tone": "^0.10.0",
+    "whatwg-fetch": "^2.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "webpack": "^2.4.1",
+    "webpack-dev-server": "^2.4.2"
+  }
+}

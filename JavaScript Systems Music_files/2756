@@ -1,0 +1,785 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en,ja,es">
+<head>
+    <title>RA: Autechre: elseq et al</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="content-language" content="en,ja,es">
+    <meta name="Description" content="Joe Muggs goes deep with the seminal Warp Records duo. " />
+    <meta name="Keywords" content="RA, residentadvisor, resident, advisor, music, autechre, elseq, et, al" />
+    <meta name="Author" content="Resident Advisor" />
+    <meta property="og:site_name" content="Resident Advisor" />
+    <meta property="fb:app_id" content="712773712080127" />
+        <meta property="og:url" content="https://www.residentadvisor.net/features/2756" />
+        <meta property="og:title" content="Autechre: elseq et al" />
+        <meta property="og:type" content="article" />
+        <meta property="og:image" content="https://www.residentadvisor.net/images/features/2016/xl-autechre-elseq-et-al-cover.jpg" />
+        <meta property="og:description" content="Joe Muggs goes deep with the seminal Warp Records duo. " />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@residentadvisor" />
+        <meta name='apple-itunes-app' content='app-id=981952703, app-argument=ra-guide://search'>
+    <link rel="icon" href="/favicon.ico" type="image/vnd.microsoft.icon" />
+    <link rel="mask-icon" href="/images/ra_icon.svg" color="#000000">
+    <link href="/bundles/default-css?v=tH2b9-4V07ul8Ge80sqna1Y9kSPLR4C6sCn0ScD7C3w1" rel="stylesheet"/>
+
+    <link href="/bundles/autocomplete-css?v=LgsUcPmpTNV0nNOC1wz8x1BB-Dw1HtLyGXWG1QRD1nI1" rel="stylesheet"/>
+
+    
+    <script type="text/javascript">
+        if (window.screen.availWidth < 663 && window.screen.width < window.screen.height) {
+            document.write('<meta name="viewport" content="width=328">');
+        } else {
+            document.write('<meta name="viewport" content="width=device-width, initial-scale=1">');
+        }
+        console.info('Interested in our code? Join us and help write it - https://www.residentadvisor.net/about/jobs');
+    </script>
+        <script>
+        window.googletag = window.googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        googletag.cmd.push(function () { googletag.pubads().setTargeting("Page", "/features/2756").setTargeting("Category", "Magazine").setTargeting("Section", "Features"); });
+        </script>
+</head>
+<body id="body">
+    <a name="top"></a>
+    <header id="header" role="header">
+        <div class="pnlLeaderWrapper">
+            <div id="pnlLeader">
+                <aside class="div-gpt-ad-1452773484957-6 leader">
+                    <div id='div-gpt-ad-1452773484957-6' class="ad"></div>
+                </aside>
+            </div>
+        </div>
+        <nav id="user" class="clearfix">
+    <ul style="-moz-user-select: -moz-none; -khtml-user-select: none; -webkit-user-select: none;">
+        <li id="basket" class="but dark arrow-down">
+            Basket
+            <div class="count basket" style="display: none;"><span></span></div>
+        </li>
+        <li id="ra-store" class="but dark desktop-only desktop-wide-only">
+            <a href="https://store.ra.co/" target="_blank"><span>RA Store</span></a>
+        </li>
+                    <li id="profile" class="but arrow-down temp login">Login / Register</li>
+    </ul>
+</nav>
+<ul id="profile-panel" class="bbox panel">
+        <li><a href="/login">Login</a></li>
+        <li><a href="/register">Register</a></li>
+</ul>
+<div id="basket-panel" class="bbox panel bbox generic clearfix">
+    <div class="items"></div><div class="basket-but but myra"></div>
+</div>
+<div id="notificationPanel" class="notificationPanel bbox clearfix events col3"></div>
+
+        <div id="navContainer" class="clearfix">
+            <div id="logo">
+                <a href="/" class="icon">Resident Advisor</a>
+            </div>
+            <div id="search-bar" class="modal-full-screen">
+               <span class="modal-close">
+                        &times;
+               </span>
+                <div id="search-bar-internal" class="modal-body">
+                    <span class="f24 mobile-only">Search</span>
+                    <div id="search-box-div">
+                        <input type="text" id="search-box" placeholder="Artists, Clubs, Promoters, Cities"/>
+                    </div>
+                   
+                    <div id="search-box-div">
+                        <input type="text" id="search-box" placeholder="Search" />
+                    </div>
+                    
+                    <div id="search-button" class="but large">
+                        <a id="search" title="Search">Submit</a>
+                    </div>
+                    <div class="grey pt16 search-helper" style="display: none;">Did you mean</div>
+                </div>
+            </div>
+            <nav id="nav" role="navigation" class="modal-full-screen">
+        <div class="modal-close">
+            &times;
+        </div>
+        <ul id="links" data-display="0" class=" modal-body">
+            <li class="mobile-only tablet-off">
+                    <div id="logo-modal-nav">
+                        <a href="/" class="icon">Resident Advisor</a>
+                    </div>
+             </li>
+                <li id="mMagazine" >
+                    <span>
+                        Magazine
+                    </span>
+                    <ul>
+                            <li id="mNews" >
+                                <a href="/news.aspx">News</a>
+                            </li>
+                            <li id="mReviews" >
+                                <a href="/reviews.aspx">Reviews</a>
+                            </li>
+                            <li id="mFeatures" >
+                                <a href="/features.aspx">Features</a>
+                            </li>
+                            <li id="mFilms" >
+                                <a href="/films.aspx">Films</a>
+                            </li>
+                    </ul>
+                </li>
+                <li id="mEvents" >
+                    <span>
+                        Events
+                    </span>
+                    <ul>
+                            <li id="mListings" >
+                                <a href="/events.aspx">Listings</a>
+                            </li>
+                            <li id="mClubs" >
+                                <a href="/clubs.aspx">Clubs</a>
+                            </li>
+                            <li id="mPhotos" >
+                                <a href="/photos.aspx">Photos</a>
+                            </li>
+                            <li id="mSubmitevent" >
+                                <a href="/submit-event.aspx">Submit event</a>
+                            </li>
+                    </ul>
+                </li>
+                <li id="mMusic" >
+                    <span>
+                        Music
+                    </span>
+                    <ul>
+                            <li id="mDjpages" >
+                                <a href="/dj.aspx">Artists</a>
+                            </li>
+                            <li id="mNewTracks" >
+                                <a href="/tracks">New Tracks</a>
+                            </li>
+                            <li id="mCharts" >
+                                <a href="/dj-charts.aspx">DJ Charts</a>
+                            </li>
+                            <li id="mPodcast" >
+                                <a href="/podcast.aspx">Podcasts</a>
+                            </li>
+                    </ul>
+                </li>
+
+            <li id="mSearch">
+                <a href="#">
+                    Search
+                </a>
+            </li>
+        </ul>
+</nav>
+            <div id="but-links">
+                <div class="icon"></div>
+            </div>
+            <div id="but-search">
+                <div class="icon"></div>
+            </div>
+
+            
+    
+
+<div id="sectionHead" >
+    <div id="breadcrumb" class="clearfix">
+    <ul>
+        <li class="but circle-left bbox">
+
+            <a href="/features.aspx">Features </a>
+
+        </li>
+
+    </ul>
+</div>
+
+    <h1>Autechre: elseq et al</h1>
+</div>
+
+           
+        </div>
+
+
+    </header>
+
+    <main id="main">
+        <link href="/bundles/cat-magazine-css?v=lGhvGcePHrSZX6slSgKes-fwOr61x_JIPs0r-IT7CX01" rel="stylesheet"/>
+
+<link href="/bundles/player-css?v=6ibx3Qr94YSC2_BuYQIvMkXnvvUS9mnEP2iUa4lwEXQ1" rel="stylesheet"/>
+
+<link href="/bundles/feature-css?v=4zoQU0CWQGcQDWrGkZL6qdfQZhHatiCoOCrArkhUgms1" rel="stylesheet"/>
+
+
+
+
+
+
+<style type="text/css">
+    #feature {
+        padding-bottom: 64px;
+    }
+
+    #feature > article {
+        border-bottom: 1px solid #FFF;
+    }
+
+    #relatedlinks {
+        padding-top: 8px;
+    }
+
+    .poll .overx {
+        min-height: 178px;
+    }
+
+    main #feature { color:#fefefe !important; background-color:#383435 !important; }
+main #feature a { color:#C8F7C5 !important; }
+main #feature a:hover { color:#383435 !important; background-color:#C8F7C5 !important; }
+main #feature .quote { color:#C8F7C5 !important; }
+</style>
+<ul class="content-list magazine-border">
+    <li class="nobreak">
+        <article id="feature" class="clearfix ">
+            <header>
+
+                        <section class="featureSection headerContents" style="border: 1px 0 1px 0; background-color: #383435">
+            <section>
+                <div class="image">
+                    <img src="/images/features/2016/xl-autechre-elseq-et-al.jpg"/>
+                        <img class="small" src="/images/features/2016/autechre-elseq-tab.jpg"/>
+                </div>
+            </section>
+        </section>
+
+
+
+
+            </header>
+<section class="featureSection introRelative" style="background-color: #383435">
+                    <section>
+                        <p class="intro">Joe Muggs goes deep with the seminal Warp Records duo. </p>
+                    </section>
+                </section>            <section id="feature-content" class="lineheight reading-line-height largeFeature">When people talk about Autechre, there are generally two camps. For the casually interested, they're the '90s electronica act who most conspicuously went weird. After two albums of pretty post-rave listening music, they became the epitome of Difficult Music, something strictly for the heads. For those heads, on the other hand, they're a quiz show specialist subject, something to be endlessly revised and debated, the minuscule detail of every performance of every one of their thousands of tracks to be studied and deliberated over. <br /><br />There is, of course, a middle ground. Each new Autechre album can be daunting, not least the new five-part, four-hour digital-only opus, <a href=/reviews/19091><i>elseq 1-5</I></a>, which follows an equally sizeable outpouring of live material via their new website last year. But a little bit of distance brings out just how varied and extraordinary their music is. If you flick through their back catalogue, the difference between, say, the mutant funkiness of 1999's <i>EP7</I> and the shimmering, melancholic beauty of 2010's <i>Oversteps</I> is huge. Both of those are easily as accessible and fun (yes, fun) as <i>Incunabula</I> and <i>Amber</i>, albums that soundtracked a million comedowns in the first half of the '90s. Even 2000s albums like <i>Untilted</i> and <i>Quaristice</I>, where they often abandoned standard rhythms, throw up moments of sheer beauty that can lure in the uninitiated.<br /><br />In person, Sean Booth and Rob Brown are also a lot of fun. When I spoke to them via Skype in their respective home studios, there was none of the prickliness that has been ascribed to them, or at least no more than you'd expect from two Mancunian lads who'd grown up doing acid and listening to electro before diving into the rave scene. Sean (furiously loquacious and analytical) and Rob (more contemplative and prone to flights of fancy) are proud of their "Northern, harsh, caustic humour," but are also very generous in conversation. <br /><br />A lot of what they wanted to talk about was heavily involved—their music, after all, no longer uses instruments as such, but impossibly complex code, programmed in MaxMSP, allows the sounds to emerge from these processes. But they clearly want people to understand what they're doing. Indeed, every time they dive deep into the nature of their programming process, or the use of AI to generate music, they immediately follow it with a vivid analogy that not only clarifies what they're talking about but punctures any sense of over-seriousness about their processes.<br /><br />Over nearly 90 minutes, we touched on nearly every part of their history, with insights into the different processes and musical politics behind almost every single one of their albums, as well as diversions into what it is to be a teenager, the need for "kindness" in music and even Kanye West. It's clear that 23 years into their relationship with Warp Records and their position at the heart of the electronic underground, Autechre are as hungry for the new as they've ever been, and that a constant experimentation and defiance of expectation has kept a youthful energy at the heart of what they do. Yes, it might require you to be one of the heads to truly absorb their insane catalogue of music, but that should never put off the merely curious from dipping into the work and ideas of one of the defining bands of our time. <br /><br /><br /><br /><br /><br /><br /><div class="xi large"><img src=/images/features/2016/autechre-elseq-window.jpg width=952 border=0 /></div><br /><br /><br /><br /><br /><b>What are you working on at the moment?</b><br /><br /><b>Sean Booth</b>: Live stuff. The next batch of live sets that we're going to be doing at the end of the year. Furiously working on that. It's one of them where even if I did get it done in a couple of months, I'd still keep on messing around with it for the remaining time, 'cause... you just do. <br /><br /><b>Rob Brown</b>: Same here. It's quite kaleidoscopic really, 'cause you're learning as you're working with this sort of work. I don't really retain much of it, to be fair, compared to Sean [<i>laughs</I>]. But you do find things being picked up, and even at my old age, learning stuff is amazing. Finding stuff that reveals itself to you over months of work, especially when you go back to alter or refine stuff.<br /><br /><b>Sean Booth</b>: You pick up bugs that I miss, too, mind, Rob. <br /><br /><b>Learning is supposed to keep your brain in trim. Do you find that's true?</b><br /><br /><b>Sean Booth</b>: Yeah... it's fucking hard though! It's harder than it was when I was a teenager. I have to do something three or four times now before it'll go in. Then I have to sleep, and the next morning, it's kind of in there. But it's not as easy as it was. Brain plasticity or something. Just being old.<br /><br /><b>Rob Brown</b>: In the old days, we'd get a piece of hardware and get it open, get it working, and most things would be quite native or instinctive. Then after that you'd get the manual and you'd read it and see things, but none of that would've sunk in if you'd read the manual first, 'cause you don't have the muscle memory from using the thing.<br /><br /><b>Do you still have that approach with new gear?</b><br /><br /><b>Sean Booth</b>: To be fair I've not bought any equipment in—what? Five years?<br /><br /><b>Rob Brown</b>: Same here.<br /><br /><b>Sean Booth</b>: I just use MaxMSP now, because in Max I can generally build the thing I need, and if I don't know how to do that it'll generally be worthwhile learning. Intellectual capital or whatever. So rather than spend me money on equipment, I spend me money—as time—in learning how to build stuff. We've built up a pretty extensive deep system now. When I first started using Max it was a bit intimidating, you'd get blank canvas syndrome, that moment of "what should I do? I could do anything!" Once I started to build stuff, narrow it down, reduce the capabilities, you start to get more ideas. It's all about narrowing down for me. There has to be a seed.<br /><br /><b>Rob Brown</b>: I'm the same, you have to start with motion. No matter how banal or pointless or irritating what you're doing might feel at first, you've suddenly got a landmark, if you like. Something where you can make decisions about whether you like what you see or not, whether to build on it, or take away from it.<br /><br /><b>Sean Booth</b>: I used to have a thing where if I had a keyboard or drum machine, I'd try to make tracks only using that. Even though it was a bit shit and I didn't know what I was doing, it forced me to learn every single thing it could do because I needed to use it for every single part of the track. That'd open it up for me. Back in the day I'd take advice from other musicians, like people would say "buy a DX-100, they're really good for bass sounds," because that's what everyone had used them for. But if you make life difficult by making every sound in the track with the DX-100 you'd end up figuring out all these other things it could do. So I do have that attitude: just rinse it, figure out everything, by not allowing yourself to do anything else and really concentrate for a bit.<br /><br /><b>People often say your music is abstract, but you're saying there's always a seed of something concrete there.</b><br /><br /><b>Sean Booth</b>: It's pretty abstract if you're not used to hearing people doing abstract music. But to other people our work sounds quite mainstream!<br /><br /><b>Rob Brown</b>: Yeah. But it's not about being initiated, or that the uninitiated can't get it, or any cliquey things like that.<br /><br /><b>Sean Booth</b>: Yeah, there's definitely no hierarchy of the intellect going on. All these things about us being "intelligent" and the term "IDM" are just silly. I'm not a particularly intelligent person, me. I'm diligent, I'm pretty hardworking, but I'm not that clever. I ain't got any qualifications, I just pick up stuff that I think is interesting at the time. And is our music abstract and weird? To us or our mates it's not! Maybe if you've only listened to pop music, then yeah, it's weirder, because you've not been exposed to it. But that works the other way, too. I don't listen to pop, but someone dumped a load of Max Martin tracks on me to try and explain what he was about, and it seemed really, really alien to me, like Nazi youth music or something. I think everyone has a different idea of what weird is.<br /><br />There was also the "Artificial Intelligence" tag that Warp coined, but to me as a listener that never seemed to be saying "this is more intelligent." It was just a signifier of it being sci-fi music.<br /><br /><b>Sean Booth</b>: What happened there was quite a natural thing. In around '91, '92, we were transitioning from doing techno, kind of dancey music, into doing tracks to listen to at home. It felt like there was a dilution going on in club music. Not in any irreparable sense, just we weren't enjoying it so much. But we'd get tapes from London of Colin Dale's abstract dance show, and you could hear all sorts of different, really good things going on in there. It wasn't about saying, "This is intelligent and that isn't," it weren't about being elitist, just trying to pick out the tracks that were good for a certain context.<br /><br /><b>Rob Brown</b>: I think it was almost the opposite of elitist. You had mags like <i>Jockey Slut</I>, you had the FatCat shop, which had been at the centre of weird stuff, and they were definitely getting a bit more dance clubby, which is very specific—and this was kind of going in the opposite direction. We thought that was sort of homogenising. We were about everything else!<br /><br /><b>Sean Booth</b>: With, say, Unique 3, it was dance music, and we didn't think about whether it was "intelligent" or not. But then later, there really was a lot of dumb stuff coming out. I dunno, I didn't come up with Artificial Intelligence. You'd have to ask [Warp founder] Rob Mitchell and he's not around any more! I think it was a joke, really. There was a definite tongue-in-cheek thing going on with the AI series initially, everyone knew it was a bit silly. But we were enjoying doing it. Thing is, almost all the artists on that first AI compilation are just like us, they were regular kids, they're not intelligent people particularly. Richard [D. James] is a fucking blagger, Richie Hawtin too... I don't know how the fuck he gets away with the things he does! Alex Paterson, people like that, they're not known for being intellectually powerful, they're just fucking good musicians.<br /><br /><b>Rob Brown</b>: Plenty of savvy though.<br /><br /><b>Sean Booth</b>: Oh aye, Alex has got buckets of smarts in a lot of ways, don't get me wrong.<br /><br /><b>Rob Brown</b>: What a lot of people miss is the nuance of it being a load of Yorkshiremen like Designers Republic, Phil Wolstenhome, Steve and Rob at Warp. They're all very sarky, very cheeky, very outgoing, real kind of Vic Reeves Northern, harsh, caustic humour but with a heart at the centre of it. And I guess maybe the Americans and even the Londoners weren't prepared for that level of duality.<br /><br /><br /><br /><br /><br /><br /><br /><br /></section></section><section class="featureSection" style="background-color: #383435;border:1px 0 1px 0;"><section><br /><br /><br /><br /><br /><br /><br /><br /><br /><div class="xi large"><img src=/images/features/2016/autechre-elseq-beans.jpg width=952 border=0 /></div><br /><br /><br /><br /><br /><br /><br /><br /><br /></section></section><section class="featureSection"><section><br /><br /><br /><br /><br /><b>Ooh as a southerner I have to protest: people like The Orb, Mixmaster Morris, Weatherall, and as you say Colin Dale got pretty weird and twisted in their humour pretty early on.</b><br /><br /><b>Rob Brown</b>: Yeah, OK. That Dale Kiss FM show, he'd have like Future Sound Of London show takeovers and stuff, and it was just mind-blowing. <br /><br /><b>Sean Booth</b>: Up north, we had no contact with The Black Dog, B12, any of them, so it was definitely Colin Dale's show that made us go, "Fucking hell, look at all this that's going on!" It was a bit hard for us, we used to take our tracks into [Manchester record shop] Eastern Bloc and they'd just laugh at us because it weren't dance floor enough. Then when we met Warp—we'd been sending them demos for a year but we properly met them in '92—they didn't really know about this stuff either, so we were kind of discovering it together with them. That AI series really came about because we were going, "We wanna put some tracks out," and they were going, "Yeah, but there's no context for this music, we don't know how to market it or anything." So they really decided they needed to make some context for it. <br /><br /><b>It created a context for the recordings, but what about social context—once you became known and doing shows? I remember you doing things like Megadog, Ninja Tune sessions, quite a variety.</b><br /><br /><b>Sean Booth</b>: Yeah, it was really bitty and mixed up. We didn't really know where we were. There wasn't any sense of a scene. Whenever I tried to talk to other musicians, they'd say the same: there is no scene, it's just a... thing. It's a bit like Madchester or something, just a fictional media construct, it doesn't really exist. There was no electronica scene in the UK, there was just student nights, [legendary hippie rave club] Megadogs, playing occasional weird things that people had put together around other acts, playing nights on your own with your label mates, just doing a tour with a couple of other bands. There weren't much going on, so you'd just try and find stuff, and you'd see the same 500 people at every event. So actually thinking of it like that, maybe it was a scene. I don't think any of the artists came into it thinking "we've got a scene" though. We were just a bunch of kids who liked doing acid and staying in listening to weird music, which isn't very socially compatible.<br /><br /><b>Rob Brown</b>: It's more just about: drench yourself in music, find the stuff that would save your night if you were in a bit of a state. Those records like Orbital "Belfast" that could just cut through and transcend, even get in the charts. <br /><br /><b>Sean Booth</b>: A lot of the tunes we were listening to were club tracks, it's just that they had this secondary use, too. Tracks like [Epoch 90's] "V.L.S.I. Heaven"—if you sit at home and play that when you're tripping, it sounds fucking amazing. And we'd always end up just slightly drifting from that. That's how we got into Coil and stuff, because it's compatible but it weren't coming from the same place.<br /><br /><b>Rob Brown</b>: There was a funny thing that happened in the mid-'90s: we were quite young and felt like we were being adopted by people maybe half a generation older than us. Like the Oscillate lot—we did our first ever proper gig in Birmingham for them—or the Megadog people, 'cause we'd end up touring with them.<br /><br /><b>Sean Booth</b>: Got to interrupt to say, Oscillate, fucking legendary night that, doesn't get nearly enough props.<br /><br /><b>Rob Brown</b>: And with them, I think we'd find a shared resistance to music that was obviously hostile, and there'd be this sense that you were looking for something that was either a bit kinder or a bit more cerebral in its effects. That's why we'd end up playing alongside someone like Seefeel, or following Megadog round in a car for four days playing a bunch of massive student raves. <br /><br /><b>Sean Booth</b>: I think you see something like that now, you know. People coming to terms with the fact that a lot of dance music's getting listened to at home, as well as in the club. Producers are aware of that and they'll make their tracks a bit deeper because they're aware they're listened to in more than one way and in more than one place. Objekt's a really good example of that. Even like "Cactus," which is obviously a massive tune, it's a really deep production, he's spent time making it pay to listen to repeatedly, it just works. And since bass music died off a little bit, there's all this other stuff that's coming out that's not even dance music any more, it's just weird electronic stuff. Someone like Arca probably couldn't have done what he's doing now ten years ago, but the climate's shifted a bit. <br /><br />A lot of Americans in particular who are getting into dance music, they don't have anywhere to go to listen to the tracks they think are high-grade tracks. They'll hear great stuff coming out of Europe or whatever, but only have shitty house or EDM clubs to go to, they've got no context to understand it, and I think there's a pressure there pushing the music in an interesting direction, same as when we were just doing acid at home!<br /><br /><br /><br /><br /><br /><br /><div class="xi large"><img src=/images/features/2016/autechre-elseq-trip.jpg width=952 border=0 /></div><br /><br /><br /><br /><br /><b>Going back to the '90s, was there a particular point where you started feeling you were accepted by the art music world as such?</b><br /><br /><b>Sean Booth</b>: Yeah, probably around the time Tri Rep [<i>Tri Repetae</I>] came out. We met Peter Rehberg in 1994, and we started to get wind of what Mille Plateaux were doing around that time, a few European labels putting out music that was a bit cooler sounding, or more detached or something. It didn't seem to have as much funk or soul, but it had this other something, which could either be really throwaway or really good. We were really picky, we didn't like all of it, but occasionally we'd hear something that was really interesting. <br /><br />I remember meeting Farmers Manual, thinking they were good and finding we'd been an influence on them, so there was this kind of dialogue going on between us and the Austrians. Definitely it seemed to be Austrians more than Germans we connected with.<br /><br /><b>Rob Brown</b>: And Sluta Leta and people like that. Not Austrian but part of the Mego crowd there.<br /><br /><b>Sean Booth</b>: It's hard to know how you're perceived from outside. I didn't really notice that we were being associated with them so much as they were just our mates. We were already hanging out and swapping ideas and stuff. I don't know if I could point to a moment where that occurred. Maybe the Gescom Minidisc was the most obvious thing—that's an album we probably could've given to Mego if we'd wanted, though it ended up coming out on Russell Haswell's label [OR]. We were doing quite a bit of work that maybe Warp wouldn't want to deal with at the time, and if they wouldn't it'd end up somewhere else.<br /><br /><b>Is that how you defined projects, then? On the basis of who would put it out?</b> <br /><br /><b>Sean Booth</b>: Yes. Quite often. Our deal with Warp means we can only put out tracks on other labels if we don't use our own names but just use the name Gescom. We negotiated that because we wanted some way to collaborate with our friends, which would happen quite a bit—we were the only ones who had a decent studio, so our mates would be round quite a bit and naturally we'd do tracks with them. We always had quite a few tracks that weren't just me and Rob, which is what Gescom grew out of. Andy from Skam is more of a hip-hop and soul head, so he tends to go for the more fun, electro kind of things, whereas if I'm giving Russell tracks he's not going to go for any hip-hop ones! <br /><br />They're kind of the antidote to each other. We do always try to get Warp to put stuff out, and if they're just me and Rob, there's no reason for 'em not to unless they're really fucking unsellable tracks. Warp do have a tendency to like stuff that's proven. I think we were the first act they'd signed that didn't have any stuff out before, other than that one 12-inch. They made a really big deal of this—"Ohhh we don't normally do this," like a girl saying, "Oh I don't normally do this," to make you feel special. But we certainly don't make music that's aimed at Warp. <br /><br />The last time we did that was <i>Amber</I> [1994]. We thought we'd be a pure fringe act when we signed, but <i>Incunabula</i> [1993] sold like hot cakes, went to indie number one, and Warp were like, "You've got to follow that up, you need to do another album in six months." We went, [<i>shrugs</I>], "Oh, OK," and did this very Warp record for them. Then we never did that again. When we gave them <i>Tri Rep</I> I had half a mind that they were going to say, "Oh, it's not the same, we can't have this." But they went for it, and that gave us the confidence to do what we really wanted, so on Chiastic [<i>Chiastic Slide</I>, 1997] we went all out to be as weird as possible. I think that's when quite a few people jumped ship.<br /><br /><b>Rob Brown</b>: I see now that <i>Tri Rep</I> is clearly more off-angle than <i>Incunabula</I> and <i>Amber</I>, but actually we always thought we were pretty off-angle inherently from the start. That's why we could mix with the likes of Mego, Skam, Warp or whoever. We've always just been us, we've always just been the sum of our influences, and whatever style we've turned our hand to, it's just been us. Natural. But when <I>Tri Rep</i> came out, yeah, it did change—the colours changed, it all went a bit khaki, a bit robotic, a bit more combative—and people getting into that was a confidence boost. <br /><br /><b>Sean Booth</b>: We'd always done that stuff! We'd always done tracks that seemed too weird to put out, and just put them on DATs and called them our "Noises DATs." We'd do 'em for listening to, just for us. So when I first heard Mille Plateaux, it was a definite, "Fuck, I do tracks like this, but I just never put 'em out because nobody wants them!" Then suddenly labels wanted it. Some of that stuff on the Gescom Minidisc was really old, and we'd just never thought anyone would put it out. This is back to them early days of taking tapes to Eastern Bloc and them just laughing. At the time I used to think, "Fuck you, this is really good, you're just not listening right." I was a right arrogant little shit, I really thought, "You're wrong, I'm right, these tracks are good, and you don't get it and in five years you'll be wishing you'd put em out." They wouldn't have made any money though.<br /><br /><b>Inevitably your Warp identity is better known than anything else. Is that ever frustrating? Do you ever want to go out as Autechre and do sets of pure electro, or pure noise, and go, "Hey we do this too!"?</b><br /><br /><b>Sean Booth</b>: Nothing cheesy, but I do have this urge to make a hip-hop album at some point. We do hip-hop tracks, but we don't put them on albums because they're too empty sounding. They're like plain breaks tracks. We both have that in us, we both do a fair amount of that stuff, and it doesn't really have an outlet. There are MCs I want to work with, but in my experience working with MCs doesn't always go that well, there're all kinds of hiccups that can happen. So we just don't do it because it's just too much brainwork.<br /><br /><b>Rob Brown</b>: If it was as simple as just turning up and flowing as we would with our mates on the early Gescom stuff then it'd be fine, but it never is. We've got all these facets and guilty pleasures and other things. I was really into soul music, when we used to listen to late-night radio in Manchester on Sundays, I'd sit and record the best of each hour and it didn't matter to me which show it was from, whether it was some Sade DMC remix or some brand new Marshall Jefferson. So that's in me, definitely. But for us to be in this arena where we're seen as "just Autechre,"—no, it's not frustrating, because we get to flex quite a bit of the different things we're into. <br /><br /><b>Sean Booth</b>: We've got away with quite a lot of different things. When we put out <i>Oversteps</I> [2010] we thought nobody would go for it, we thought everyone by that stage wanted mega-complex-beats Autechre, they're all going to be like, "What the fuck's this plinky-plonky music?" But then again every time we put out a record that's really different, it probably isn't. When we put out <i>Draft 7.0</I> [2003] we thought it was like a hip-hop record or something. Obviously it wasn't, but I'd be playing tracks to mates going, "I've really gone out on a limb here, done something really different, does it sound like us?" They'll be laughing, going, "Does it sound like you? Fuck off—it's so obviously you!" <br /><br />We can't really help ourselves, I suppose we're lucky like that. I think we probably would've tried to use the same name for everything if we could've got away with it, but I guess the way Warp works keeps the focus. I know Steve [Beckett] pretty well, I know his tastes, and I guess if I gave him a hip-hop album and it was good he'd put it out in a heartbeat. If we decided to do a bass music album they'd put it out I'm sure. So Warp in itself isn't stopping us doing anything. Maybe if we did a death metal album they'd say no, I dunno. <br /><br /><br /><br /><br /><br /><br /><div class="xi large"><img src=/images/features/2016/autechre-elseq-outs.jpg width=952 border=0 /></div><br /><br /><br /><br /><br /><b>Have you got a secret smooth album in you?</b><br /><br /><b>Sean Booth</b>: In Rob there is. He's more of a soul man than me.<br /><br /><b>Rob Brown</b>: I think Sean's maturing nicely though. <br /><br /><b>Sean Booth</b>: I like it more than I did, I listen to a lot of '80s soul now.<br /><br /><b>Rob Brown</b>: When we were kids it was quite a polarising thing. I've always been quiet malleable, so I'll allow people to have opposing views to me without challenging them too much. <br /><br /><b>Sean Booth</b>: I'll tell you what though, when I first heard that James Blake remix of Untold, "Stop What You're Doing," I was blown away. I was like, "How is he managing this level of intensity with soul chords like that?" Nobody would do that! That'd be the thing for me, it'd have to be new to that extent. I really love that track, and it'd have to be as good as that, it wouldn't sound like that obviously, but it'd have to be at least as impactive as that for me to be worth doing.<br /><br /><b>Have you kept your eye on recent shifts in electronic music then? </b><br /><br /><b>Sean Booth</b>: Sort of one eye. I'm not hip at all. I'm the guy who finds out about a record a year after it comes out, these days. I do have one eye on Bleep and Boomkat, I listen to that stuff, I buy things I like then promptly forget the artist name immediately then it just goes in the pile. There's some artists I'll still buy everything by—someone like Ancient Methods, I'll just buy everything. I don't even know what my criteria are any more, though. But it is good to see that certain things will become fashionable or noted that are actually good. It's not like the world's gone to shit and I'm old and I hate it all—almost the opposite. I feel like it's got so good, but there's so much of it that I just can't keep up with it. I spend so much time in the studio that I don't really have time for music beyond that. <br /><br />I watch films and telly and stuff to switch my brain off, because I've spent all day listening to one patch and making music, four hours of this one thing constantly changing—that's it, my brain is fucking toast. I can't understand anything after that. I do want to hear records, and I do really like stuff when I hear it, but I'm not up to date because there's so many things. I don't even know if anyone's up to date any more. A thousand releases a week or whatever, how could anyone keep up? I should be asking you that!<br /><br /><b>If there's a positive to this glut of culture, it's that you still have to commit and search to find the good stuff, or at least have a circle of friends who are committed to that, and as you say, nobody can know everything, so there's still this sense of mystery.</b> <br /><br /><b>Sean Booth</b>: That's true, mates are important. Yeah, it was like that with Ancient Methods. '06 or '07, when the first couple of 12s had come out, people were like, "You've got to get on this, it's really fucking good." I'd been off techno for quite a while then but that really turned my head around. I remember at the same time that noisy French house thing had got really big too, and Mr Oizo was doing mad stuff, I really loved that. That's how I'll usually do it, I'll have two or three acts that I'll grab onto, because that's all I've got to keep me held on. I'm in the dark about a lot of stuff, but like you say I like the mystery of that. When we was kids, we'd have electro tapes, there'd be 20 tracks on the side of a tape, I wouldn't know what any of them were, half of them weren't even finished because they were tapes of tapes of mates taping off the radio. There'd be this weird sense of them being elusive as fuck. I like that thing now of going online and I know within half an hour I'll have found something that I like that I've never heard of before. The world's definitely a better place now than in '92, '93, there's so much more going on musically.<br /><br /><b>Rob Brown</b>: You're both totally right. Because there's so much going on now, you could argue that there's a massive background noise of actual music. When we were kids there wasn't so much of that, but the noise was social, it'd be about fighting your way through hierarchies—like kids with older brothers who had tapes off the radio because they were old enough to listen to midnight pirate radio and know who the DJs were and when they played. Certain layers that I as a young kid couldn't penetrate. And even when you got a tape, like Sean said, you didn't know who the fuck any of the acts on it were. The background noise was a negative social force, trying to stop you getting to what you wanted.  <br /><br /><b>Sean Booth</b>: Basic fucking elitism right there. Nobody talks about the old days as being this horrible frenzy of elitism, but it fucking was.<br /><br /><b>Rob Brown</b>: But I never felt I was being held back by any one person or any one thing.<br /><br /><b>Sean Booth</b>: No, but it's like the fucking class system isn't it? You can't escape it, you're a 14-year-old, you've got an 18-year-old mate, he knows more about music than you because that's just how it is. Or was. Nowadays, that extra amount of information is not that valuable—the 14-year-old has got that at their fingertips. They don't need the 18-year-old to hold their hand. It's better because of that, but harder because you can't rely on tastemakers. I wouldn't complain about that, but obviously I miss John Peel! I don't know if you could ever have someone like that now. Do we need someone like that? Maybe we do, maybe we need someone to navigate the water and point out all the big fish. I'd like to think it can sort itself out and the kids can find the good stuff themselves, but maybe I'm naive and utopian. <br /><br /><b>Maybe we're waiting for the algorithmic John Peel.</b><br /><br /><b>Sean Booth</b>: Heh, yeah, I bet Google are working on that!<br /><br /><br /><br /><br /><br /><br /><div class="xi large"><img src=/images/features/2016/autechre-elseq-wire.jpg width=952 border=0 /></div><br /><br /><br /><br /><br /><br /><b>So you say the studio takes up most of your time. How is that for you? Is it gruelling, or enjoyable?</b><br /><br /><b>Sean Booth</b>: Oh, I'm one of those weird guys who'd do it anyway. <br /><br /><b>Rob Brown</b>: It's definitely habit forming.<br /><br /><b>Sean Booth</b>: It's fully addictive. If I have a choice of going out or staying in and doing some patching, I'll almost always choose staying in unless I'm under a lot of pressure to go out. Takes quite a lot to get me out of here. I mean, I'm not socially that bad, but I just really, really like making music. I don't have to make any effort to get stuck in here. If I did I'd probably get a teaching job or something because I'd need something else in life, but I don't!<br /><br /><b>You even enjoy it if it's just experimenting with software and you haven't got anything resembling a track?</b><br /><br /><b>Sean Booth</b>: I'll be totally honest, there's parts of what we do that are really fucking irritating. If I'm trying to build something and it's not working but I can't work out what the bug is, and I spend a month debugging it—that's not that unusual—then I'll be really fucking banging my head against a brick wall for a month. It's a horrible feeling. But what you get at the end of it, when you've solved the problem and finally figured out that stupid mistake you made five weeks ago that you could easily have avoided—well, we're back to learning. You've immediately learned. If I could do it and not have that, ever, it would be better, though. But I'm happy with it, warts and all. And when it is working, it's all set up, then doing tracks on it... well, there's nothing like it. It's amazing. So it's a compulsion, I suppose. I don't see that as being gruelling. It's really invigorating, and whatever the opposite of gruelling is— life affirming!<br /><br /><b>There's a point where the results of your music making become separate from the process—when the album is signed off and packaged, or you listen back to the recording of a show. How are you feeling about the new stuff in that light?</b><br /><br /><b>Sean Booth</b>: Better than I did two weeks ago, I tell you! I was a bit nervous. It's not Top Ten material, is it? We wanted to sneak this out, but Warp heard it and said, "No, we want to promo it a bit." So we thought, "Right, OK, we'll promo it," and we came up with a plan that we were happy with that wasn't really a normal promo plan. I suppose we tried to break their promo system by being creative. But now I've had opinions back, I feel different and a lot more confident. As we said, we're out of touch, we don't know what's going to connect with an audience. Rob and I have been back and forth with this thing quite a bit now, and it's become this enormous thing, and we don't know how to frame it, or what it is. We don't know if it's an album, or a collection of EPs or albums or just... things. We have no idea what this actually is. <br /><br />When we first approached Warp about doing an online store, the idea was it'd function the same way as a SoundCloud or Bandcamp account would function: it would give us an opportunity to release stuff quickly. Originally it was about releasing live material. We'd had a couple of people approach us with services for burning CDs on the night at gigs and we thought that was a great idea, but that then became, "Maybe we should make a website, which'd be easier and we could throw each gig's tracks online." And then that became, "Well, if we had an online outlet, maybe we could use that to put out tracks as and when we do them, so there'd be this new element to what we're doing." So we never expected this to be marketed like an album, the original plan was to just keep putting tracks on our website as we go. We'd already assembled these tracks into these groupings, and after the live tracks Warp asked if we had anything else we'd like to put on the site, so it gradually assembled itself from there, really. <br /><br />It's not like we're trying to blow away the album format or be hyper-futurist weirdos. But on the other hand, doing it this way gives us the opportunity to think in structures that aren't constrained by physical format. If we've got a 25-minute track, it's no issue to put it out. When we did <i>Quaristice</i>, we had an hour-long track, and we thought, "Well, there's no point adding a whole extra CD to the 'proper' album just for this one track, nobody's going to want to pay the extra money for that." But if we put it online a few people might buy it. We did that and that worked, so that fed into what we're doing now. <br /><br />For about three years I've been sitting around listening to these long-as-fuck tracks, going, "Hmm, I really like this, but if it's on an album everyone'll go, 'Why is this taking up all this space? It's ruined the flow of the album!'" It all comes back to this idea of the album, and the sacred thing that it is. We're not really from an albums background, though, we're from a 12-inches-and-weird-tracks-on-tapes-where-you-don't-know-who-the-artists-are background! So it kind of makes sense for us to do things that aren't format-related as such. Like when we did <I>EP7</I>, we deliberately called it an EP so we could do things that weren't album-like. Obviously albums were originally just a convenient ratio of profit to the amount of plastic you need to use, and that's become a sacred thing due to the annals of rock history, and the whole thing of Great Albums—"these are the Great Albums and these are the Not Very Great Albums"—and it's about worshipping the format. We're finding that using the store we can ignore that a bit. <br /><br /><b>Rob Brown</b>: Totally. The format is arbitrary depending on what era you're talking about. I think one thing we're good at is compiling something really well so it gives you a feeling, from start to end, and maybe albums taught us that, with the CD limit of 72 minutes or whatever. <br /><br /><b>Sean Booth</b>: Mixtapes, too!<br /><br /><b>Rob Brown</b>: Yeah, but definitely albums with that specific limit. You didn't have the Paul Simon limits of 50 minutes or whatever a vinyl album has.<br /><br /><b>Sean Booth</b>: Well, we were definitely pushing against those limits. We'd be packing them as full as we could.<br /><br /><b>Rob Brown</b>: Yeah, one second short of the limit. We definitely fill up what's available, then we learned this flow thing from filling up two CDs—you want a narrative from start to end, and now that we don't need to change records, to get up and change to the second CD, there's no limit to how long that flow can be. But at the same time, we have high regard for the way those constrained structures work as an arc, and what happens along the way between start and end. We might be breaking out of the album structure, but it's completely the opposite of a disregard for how the music is structured.<br /><br /><b>Sean Booth</b>: It's one of them where if you're doing art, you have to consider the medium a lot. With this store thing that we've constructed, we wanted to be conscious of what it was and how it worked, because if we were just flinging albums up on there it would be a meaningless thing. There is a set of liberties that you can exploit if you've got that facility. I mean, I've been following various kids on SoundCloud and they'll upload 50 tracks in a day. No artist in any other context would do this, but on SoundCloud nobody's there to tell them that this is wrong. We also quite like the chapters thing, like you have if you're doing marathon TV watching. Like, if I'm watching some big mainstream show like <i>Game Of Thrones</I>, I'll watch four or five of them in a row on a Sunday afternoon—and that's no longer weird for people to do that. So I guess we're making music for people who'll do things like that, who want to be completist and check out the whole of a thing.<br /><br /><b>Rob Brown</b>: There's something about how directors make a series like that, they'll have the committee storyboarding, but there's an awareness that some people will have a gap of a week between episodes but others will be binge-watching it on a weekend, sort of speed T'ai Chi-ing through it all. There's something really satisfying about that behaviour. Going back a bit, with Warp we'd talk about an album, we'd be quite tentative, there'd be a long selecting process, and by the time the thing came out some of the tracks might be two or three years old. There'd be a six-month lead-in time to get to press, three months before release for a review for the paper magazines, and you'd end up with a compilation of tracks that were actually old, and that would freak me out.<br /><br /><b>Sean Booth</b>: <i>Exai</I> was definitely talked about as an album for a year before its release, and everything was two or three years old when it came out. <br /><br /><b>Rob Brown</b>: It would be frustrating talking to people about it, trying to present it as something new.<br /><br /><b>Sean Booth</b>: The way you play those tracks would be completely different by that point, and you're having to talk about things you did ages ago and can't even remember what you were thinking.<br /><br /><br /><br /><br /><br /><br /><br /><br /></section></section><section class="featureSection" style="background-color: #fff;border:1px 0 1px 0;"><section><br /><br /><br /><br /><br /><br /><br /><br /><br /><div class="xi large"><img src=/images/features/2016/autechre-elseq-album.gif width=952 border=0 /></div><br /><br /><br /><br /><br /><br /><br /><br /><br /></section></section><section class="featureSection"><section><br /><br /><br /><br /><br /><b>Rob Brown</b>: At that point it becomes a little toxic even talking about it, you're kind of regretting agreeing to interviews. You want to be talking about what you're really doing right now. What we're doing now hasn't been totally cut and dried in that regard, but it's as close as we've ever had it. We could get closer though. The aim originally, a year or so ago, was uploading, showing Warp, getting the nod off Warp, getting Designers Republic to create some graphics, and have it out on Monday morning from a session on Friday. In theory you could do that.<br /><br /><b>Sean Booth</b>: That's really exciting for us. I mean, I do like to live with tracks for a while and work out if I like them, but once you're at a point where you want to put it out, it's nice to put it out instantly. It's definitely a luxury, I'm not saying everyone else needs to move in that direction, and I'm pretty sure we'll be doing physical stuff in the future, different stuff, but this is just more interesting to us at the moment. As an artist it offers a greater range of expression.<br /><br /><b>Rob Brown</b>: Again, it's the opposite of disregard for what you're doing. The speed at which things come out has nothing to do with how much effort's been put into the work. <br /><br /><b>People have barely scratched the surface of what these formats can do for the music. My friend Ben Bashford, who blogs about tech, came up with an idea about Kanye West: because <i>The Life Of Pablo</I> is streaming-only, he could actually recall tracks and decide to change them, and that makes him like a software designer. He's working iteratively with beta-testing and so on.</b><br /><br /><b>Sean Booth</b>: Yeah—we've talked about doing this too!<br /><br /><b>Rob Brown</b>: Backdoor updates.<br /><br /><b>Sean Booth</b>: It's amazing how much flak Kanye gets. But then he's like the anti-PR isn't he? He wants you to hate him so you'll talk about him. He's like the master-clickbaiter. But yeah, there's definitely something to be said about the way he's working. It risks being a little bit George Lucas maybe, but there's an interactive thing going on. People complain about the production on a track, he'll pull it, fix it up, go, "There you go!" And that's new, we've not had that before. That's not George Lucas tweaking his films decades later, that's some other thing. He really, really, really cares what people think to the point where he'll reshape things based on that.<br /><br /><b>Rob Brown</b>: And there's latent potential, and he sees that. He's happy to keep battling and competing.<br /><br /><b>Sean Booth</b>: He's obviously a little bit mad, but I don't see that as a bad thing. He's good to have around. I've got a weird half-respect for Kanye, I don't like his music as much as I find him endlessly interesting. <br /><br /><b>Could he be Autechre's MC for the fabled hip-hop album? Or if you got the call would you contribute to one of his records?</b><br /><br /><b>Sean Booth</b>: Oh fuck no! [<i>cracks up laughing, then pauses to think</I>] But you know what? If he did call, I think I'd do it, just to get into the studio with him and see his process. I think he's an interesting guy. Psychologically interesting. I want to nail it, find out what strain of narcissism he's got, or how much he's taking the piss. <br /><br />But no, there is a list of MCs I'd work with. I don't want to start on it because then it's insulting to name one and not all the others. It's a fair old list. There's at least five or six that we'd 100% work with if they approached us, and a bunch of other interesting ones. Just lately I've been listening to a lot of Westside Gunn. He's from Buffalo NY, and it's really thugged out but really brainy at the same time. It's quite Ghostface, he's obviously really into Wu-Tang, but it's a lot slower, and stylised and weird and amazing to me. I'd work with him in a heartbeat, but I don't think he'd go near us—he's just from another world, and I think his music probably sounds a lot better without my input anyway. Roc Marciano—he's another one, he's fucking amazing but I'd probably ruin it. Ahhh, see I'm doing it already, see what I mean? I'd work with Jean Grae in an instant, too. She's incredible, she's a little bit hipster now—just in terms of her audience, not as a person—but her flow is the best in the world, she doesn't get nearly enough credit. There's a few others. <br /><br /><b>Rob Brown</b>: Just get some soul singers in, there you go!<br /><br /><b>I for one would love to see Autechre vs Young Thug.</b><br /><br /><b>Sean Booth</b>: Ohh, he's loads cleverer than everyone thinks he is, that guy. It wouldn't be that bad a fit, it's not that weird a suggestion, you know. It would probably work! For us, it's either got to be deep and clever lyrically or there's got to be good flow, or it's just got to be fucking weird. You're on the right track there.<br /><br /><b>So now that the new batch of music is out there, what's your main focus?</b><br /><br /><b>Sean Booth</b>: It's all about the live shows. It'll just be a little 30-date thing around Europe, doing it with Russell Haswell. I don't want to say what it's going to be like, I'm programming for it now.<br /><br /><b>Earlier on you referred to working on a "batch" of live sets. Do you actually prepare different sets for different shows?</b><br /><br /><b>Sean Booth</b>: Not as such. We write software, then we'll do tracks on that software, but if that track needs something else then there'll be some more software programming to do. Programming is long, it's a lot slower than strictly making tracks, but it does mean that by the end of the period of time I'll have some extra tricks and tools to use to work with the music that's there. I mean, there's no actual music "there"—it's not like we make music, then use the system to replay it in new ways. The system itself is making the music each time, it's all about the capabilities of the system dictating what the music's like. <br /><br />I'm sorry if that's weirdly vague, but without showing you everything in there one by one, it's all a bit academic. We try and make it as flexible as possible so that shows aren't too similar to one another, purely because we're playing 30 dates in a row which could get boring if you have to listen to the same patterns every night. It's for us more than anything.<br /><br /><br /><br /><br /><br /><br /><div class="xi large"><img src=/images/features/2016/autechre-elseq-live.jpg width=952 border=0 /></div><br /><br /><br /><br /><br /><b>Rob Brown</b>: When you start working on tracks you find yourself going, "Oh, that would've been good if it could've done this or that," then you end up putting it all down for four days and programming the modules or patches that are going to create the certain type of musical motifs you were wishing for, or even influence all the other patches you've already got to do certain things at certain times in certain ways. Then when you've fixed it, and it's not doing it all wrong, you try it, and you've got a track basically. You've got a live track.<br /><br /><b>Sean Booth</b>: Yeah, it's mad how fast the tracks come once you've built something. And it's multiplicative or exponential or something. Once you've created a module you can combine it with 80 other modules, and there's this huge multiplicative effect in the number of things you can do. That means I know it'll be a lot quicker building the set this time because we've already got this huge foundation to build on. But then the more you do, the more you can do. <br /><br /><b>So basically you've created a musical Huge Ever-Growing Pulsating Brain...</b><br /><br /><b>Sean Booth</b>: Yeah! Ha, I'll tell Alex [Paterson] that, he'll be excited. I mean, it's been seven or eight years we've been building this one now. It's been through a few revisions, it's changed a lot, and now it's become this monster.<br /><br /><b>Does it feel like another entity in the band besides you two?</b><br /><br /><b>Sean Booth</b>: Yeah it does.<br /><br /><b>Rob Brown</b>: Yeah.<br /><br /><b>Sean Booth</b>: It's like gaming sometimes, trying to guide it. There's some very basic AI in there—I mean only using "if" statements, conditionals, if-the-situation-is-this-then-do-that type things. It's as basic as a game AI, if you look at the AI for the characters in a game, it's just a chain of "if" statements, basically. It's very much on a level to that, really. So playing music on it is about as fun as playing <i>Grand Theft Auto</I>, doing random shit with pedestrians, seeing if you can get someone to run up a wall or whatever. If I can get the musical equivalent of that, I'm generally quite happy.<br /><br /><b>Rob Brown</b>: Make the cars float. Transparent cars that float. That's what we aim for.<br /><br /><b>Sean Booth</b>: I wouldn't say it's a living entity, really. It's about as much like as an entity as a shit AI in a game is. That's how intelligent it is, which is not intelligent at all, but it might at least resemble the way a person thinks. It's funny, I've been reading about <a href=https://en.wikipedia.org/wiki/Markov_model>Markov models</a> and <a href=https://en.wikipedia.org/wiki/Markov_chain>Markov chains</a> recently, the results from Markov Chains are remarkably similar to what you get out of <a href=https://en.wikipedia.org/wiki/Watson_(computer)>Watson</a> or <a href=https://en.wikipedia.org/wiki/Google_DeepMind>DeepMind</a>, these super advanced language modelling things. And this article was about how unwieldy that kind of mega-gigantic, expensive AI is, because you can actually achieve very close results using Markov chains, and they're really fucking simple, they're computationally really easy to deal with, they're what people use for Twitterbots and things like that. So in some ways these simple conditional responses can resemble very high-end AI. Even though it's very simple, the result is close enough not to matter.<br /><br /><br /><br /><img src=/images/features/2016/autechre-elseq-markov.jpg width=632 alt="Markov Chain" border=0 /><br /><br /><br /><br /><b>And people want to believe. The brain is programmed to see another mind at work in anything complex.</b><br /><br /><b>Sean Booth</b>: But it's not another mind at work in our stuff. It's just our habits, transcribed.<br /><br />It's a weird thing. I was talking to [Richard D. James] about this, and he's got like ten different studios, which he leaves set up all in different ways. That setup in itself is something that only he would come up with, each one is a unique instrument. With programming it's exactly the same thing, you've created an instruction set, and that's defined by what you wanted to achieve, so there's an element of your personality and wishes that exists in code terms now. I think all programmers feel like that when they make something: that a little bit of themselves is out there doing its thing. <br /><br /><b>You're leaving ghosts and psychic residue everywhere.</b><br /><br /><b>Sean Booth</b>:  Yeah! I don't want to call that AI, because that's a really loose definition. But there is this slight element of personalities being split up and lost into the world. And that is interesting. I'm not about legacy or anything, but it's cool when I switch my computer on and it can just be me... even if it's just a little bit.<br /><br /><b>Rob Brown</b>: Yeah, it is just a kind of mimicry, but even if it is just traits, people do see personality, like you say. And if they see bit of a person in it, then that's as far as you need to go sometimes. <br /><br /><b>Sean Booth</b>: It's fun, I use Rob's patches in tracks, he uses mine, so we're 50/50 on a track even if the other one weren't there, because there's a bunch of his decisions getting made during the track. With this kind of algorithmic music, because the algorithms are made by people, it is people music! You get that thing of, "Eww, it's not human!" But that's so far off how I think of it. I think of it as being more human, because there's all these decisions in there, and they're human decisions. They're what people chose to do. <br /><br /><b>Rob Brown</b>: I was just emailing a mate this morning, he was going, "Oh, that track's you, Rob, and that track..." And I was going, "Well, actually, no," because when you're writing software for one another you're collaborating almost on the Atom level. That's not actual atoms, but Atom in MaxMSP terminology, it's the smallest element you can use.<br /><br /><b>Sean Booth</b>: It'd be cool though, to collaborate on building circuits at the atomic level.<br /><br /><b>Rob Brown</b>: In the old days, we might be able to separate out each other's bits in the tracks, like someone had worked late in the studio, the other one had come in and used the ideas they'd put down, and that would be something you could spot. But now it's almost so fast and so detailed that the joins aren't there.<br /><br /><b>Sean Booth</b>: I can listen to a track of yours, Rob, for six months and not recognise one of me own sequences, then suddenly I'll have a moment of recognition, going, "Oh fucking hell, it's that thing I made that's doing that in the track!" We're blurry anyway, we copy each other all the time, and I often forget who came in with what, but it's getting really deep and weird now. Beyond being able to even understand it properly. We're not quite at singularity yet though.<br /><br /><br /><br /><br /><br /><br /><div class="xi large"><img src=/images/features/2016/autechre-elseq-smoke.jpg width=952 border=0 /></div>                                            </section>
+        </article>
+    </li>
+    <li ID="divSummary" class="grey-bg alt">
+        <section class="contentDetail dark">
+            <aside id="detail">
+                <ul class="clearfix">
+<li>
+    <div>
+        Words /
+    </div>
+    <a href=/profile/knid/contrib>Joe Muggs</a>
+</li><li>
+    <div>
+        Published /
+    </div>
+    Wed, 8 Jun <a href=/features.aspx?year=2016>2016</a>
+</li>                </ul>
+            </aside>
+
+            <!-- credit + links from the features table -->
+            <aside id="related" class="content clearfix">
+                <div class="fl grey">
+                    
+                </div>
+            </aside>
+
+            <div class="clearfix">
+                <section id="share">
+    <span id="shareTitle" class="f12 grey">Share</span><span id="shareTitleShareType" class="f12 grey"></span>
+    <ul>
+        
+        <li>
+            <a id="aFacebook" title="Facebook" class="op-but" data-url="https://www.residentadvisor.net/features/2756">
+                <img src="/images/gen/icon-facebook.gif" width="73" height="36" border="0" />
+                <span id="facebookShares"></span>
+            </a>
+        </li>
+        
+        <li>
+            <a id="aTwitter" href="#" title="Twitter" class="op-but" 
+                            onclick="popup(event, 'https://twitter.com/share?url=https%3a%2f%2fwww.residentadvisor.net%2ffeatures%2f2756&text=RA%3a+Autechre%3a+elseq+et+al',720,400,1);">
+                <img src="/images/gen/icon-twitter.gif" width="73" height="36" border="0" />
+            </a>
+        </li>
+
+    </ul>
+</section>
+            </div>
+            <div class="banner" style="padding-top: 32px;">
+                        <div id="pnlLeaderInpage">
+            <aside style="padding-bottom:16px;" class="leader">
+                <div id='div-gpt-ad-1452773484957-5' class="ad"></div>
+            </aside>
+        </div>
+
+            </div>
+        </section>
+        <span>0<span data-role="counter"></span>/</span>
+    </li>
+        <li class="comments ">
+        <div id="comment-container" class="comments-loading" 
+             data-per-page="40" data-per-first-page="6" 
+             data-section="Feature" data-topic-id="297265" data-content-id="2756">
+            <section id="comments" class="content clearfix">
+                <h1>Comments loading</h1>
+            </section>
+        </div>
+        <span>0<span data-role="counter"></span>/ #297265</span>
+    </li>
+
+
+        <li class="related">
+        <section class="content moreSeries mobile-pr24">
+    <div id="pnlHeading">
+        <h1 class="heading underline">More on Autechre</h1>
+    </div>
+    <ul id="related-list">
+        <li class="related">
+            <article id="short-profile" class="clearfix">
+                <div class="excerpt">
+                    <a href="/dj/autechre"><img src="/images/profiles/autechre.jpg" alt="Autechre" /></a>
+                    <div id="pnlButton">
+                        <div class="fav button clearfix">
+                            <div id="divFavButton" class="fav myra but plus bbox" data-action="dj" data-id="799" data-isFavourite="0">
+                                <a href="#" class="favLink bbox">Add to favourites</a>
+                            </div>
+                        </div>
+                    </div>
+                    <p>
+                        Autechre is an English IDM group consisting of Rob Brown and Sean Booth signed with Warp Records. 
+                        <br /><a href="/dj/autechre">View the full artist profile</a>
+                    </p>
+                </div>
+            </article>
+        </li>
+    </ul>
+</section>
+
+    <section class="content moreSeries">
+            <h1 class="heading underline small listing-heading">News</h1>
+<div class="slide strip small" id="news-listing" data-type="news">
+    <ul class="list">
+<li>
+            <article class="highlight-top">
+                <p class="date">Fri, 03 Mar 2017</p>
+                <a href="/news.aspx?id=38320"><img src="/images/news/2017/golden-pudel-book.jpg" class="thumb" /></a>
+                <p class="comments light">
+                    <a href="/news.aspx?id=38320&amp;comments=1"><span>4</span> comments</a>
+
+                </p><a href="/news.aspx?id=38320">
+                    <h1>Golden Pudel illustrator Alex Solman to release new book</h1>
+                </a>
+                <p class="copy">Die Welt Ist Eine Pudel, published by Monkeytown, will be available later this month.</p>
+            </article>
+        </li><li>
+            <article class="highlight-top">
+                <p class="date">Fri, 03 Feb 2017</p>
+                <a href="/news.aspx?id=38060"><img src="/images/news/2017/touched-music-detuned-aphex-plaid.jpg" class="thumb" /></a>
+                <p class="comments light">
+                    <a href="/news.aspx?id=38060&amp;comments=1">Post a comment</a>
+
+                </p><a href="/news.aspx?id=38060">
+                    <h1>Touched Music and De:tuned to release mysterious charity EP on World Cancer Day</h1>
+                </a>
+                <p class="copy">The five-track EP, Covert II, may include uncredited material from Plaid, Luke Vibert or Aphex Twin.</p>
+            </article>
+        </li><li>
+            <article class="highlight-top">
+                <p class="date">Fri, 28 Oct 2016</p>
+                <a href="/news.aspx?id=37040"><img src="/images/news/2016/russell-haswell-panther-noise-new-label-haswell-studio.jpg" class="thumb" /></a>
+                <p class="comments light">
+                    <a href="/news.aspx?id=37040&amp;comments=1"><span>2</span> comments</a>
+
+                </p><a href="/news.aspx?id=37040">
+                    <h1>Russell Haswell launches new label with PANTHER nO!se album</h1>
+                </a>
+                <p class="copy">The UK sound artist released a new LP today.</p>
+            </article>
+        </li><li>
+            <article class="highlight-top">
+                <p class="date">Thu, 27 Oct 2016</p>
+                <a href="/news.aspx?id=37035"><img src="/images/news/2016/ra-showcase-club-to-club-turin-2016.jpg" class="thumb" /></a>
+                <p class="comments light">
+                    <a href="/news.aspx?id=37035&amp;comments=1"><span>10</span> comments</a>
+
+                </p><a href="/news.aspx?id=37035">
+                    <h1>Arca, Tim Hecker, Forest Swords play RA showcase at Club To Club 2016</h1>
+                </a>
+                <p class="copy">The event is scheduled for Thursday, November 3rd, at Lingotto Fiere in Turin.</p>
+            </article>
+        </li><li>
+            <article class="highlight-top">
+                <p class="date">Tue, 11 Oct 2016</p>
+                <a href="/news.aspx?id=36790"><img src="/images/news/2016/tta.jpg" class="thumb" /></a>
+                <p class="comments light">
+                    <a href="/news.aspx?id=36790&amp;comments=1"><span>14</span> comments</a>
+
+                </p><a href="/news.aspx?id=36790">
+                    <h1>Ghostly International to reissue Telefon Tel Aviv&#39;s debut, Fahrenheit Fair Enough</h1>
+                </a>
+                <p class="copy">The remastered LP will come with eight unreleased bonus tracks.</p>
+            </article>
+        </li><li>
+            <article class="highlight-top">
+                <p class="date">Thu, 22 Sep 2016</p>
+                <a href="/news.aspx?id=36530"><img src="/images/news/2016/autechre-first-three-albums-reissued.jpg" class="thumb" /></a>
+                <p class="comments light">
+                    <a href="/news.aspx?id=36530&amp;comments=1"><span>8</span> comments</a>
+
+                </p><a href="/news.aspx?id=36530">
+                    <h1>Autechre&#39;s first three albums repressed on vinyl</h1>
+                </a>
+                <p class="copy">Incunabula, Amber and Tri Repetae will hit wax in November.</p>
+            </article>
+        </li><li>
+            <article class="highlight-top">
+                <p class="date">Fri, 09 Sep 2016</p>
+                <a href="/news.aspx?id=36295"><img src="/images/news/2016/skanu-mesz-autechre-latvia.jpg" class="thumb" /></a>
+                <p class="comments light">
+                    <a href="/news.aspx?id=36295&amp;comments=1">Post a comment</a>
+
+                </p><a href="/news.aspx?id=36295">
+                    <h1>Autechre, Klara Lewis, Killing Sound play Skaņu Mežs 2016 in Riga</h1>
+                </a>
+                <p class="copy">The festival takes place across October and November.</p>
+            </article>
+        </li><li>
+            <article class="highlight-top">
+                <p class="date">Fri, 09 Sep 2016</p>
+                <a href="/news.aspx?id=36297"><img src="/images/news/2016/shut-label-sept-16.jpg" class="thumb" /></a>
+                <p class="comments light">
+                    <a href="/news.aspx?id=36297&amp;comments=1"><span>9</span> comments</a>
+
+                </p><a href="/news.aspx?id=36297">
+                    <h1>Ryan James Ford starts a label, SHUT</h1>
+                </a>
+                <p class="copy">The Canadian techno artist&#39;s new imprint will be a platform for his own music.</p>
+            </article>
+        </li>    </ul>
+</div>
+
+    </section>
+    <section class="content clearfix">
+                    <h1 class="small heading underline listing-heading">Reviews</h1>
+    <div class="slide strip small" id="reviews" data-type="reviews-music">
+        <ul class="list reviews">
+<li class="min-height-medium">
+    <article class="highlight-top">
+        <div class="recommended">
+            <div class="overlay"></div>
+            <div class="recommended">
+                <a href="/reviews/19091">
+                    <div class="overlay"></div>
+                    <img src="/images/reviews/2016/autechreelseq-cover.jpg">
+                </a>
+            </div>
+        </div>
+            <p class="comments light">
+                <a href="/reviews/19091?comments=1"><span>63</span> comments</a>
+            </p>
+<a href="/reviews/19091">
+            <h1>Autechre - elseq 1-5</h1>
+        </a>
+            <p class="copy"></p>
+    </article>             </li><li class="min-height-medium">
+    <article class="highlight-top">
+        <a href="/reviews/18365">
+            <img src="/images/reviews/2016/diag027-various.jpg">
+        </a>
+            <p class="comments light">
+                <a href="/reviews/18365?comments=1"><span>2</span> comments</a>
+            </p>
+<a href="/reviews/18365">
+            <h1>Russell Haswell - As Sure As Night Follows Day Remixes</h1>
+        </a>
+            <p class="copy"></p>
+            </article>             </li><li class="min-height-medium">
+    <article class="highlight-top">
+        <a href="/reviews/14284">
+            <img src="/images/reviews/2014/ap006obermanknox.jpg">
+        </a>
+            <p class="comments light">
+                <a href="/reviews/14284?comments=1">Post a comment</a>
+            </p>
+<a href="/reviews/14284">
+            <h1>Oberman Knocks - Dliankex</h1>
+        </a>
+            <p class="copy"></p>
+            </article>             </li><li class="min-height-medium">
+    <article class="highlight-top">
+        <a href="/reviews/13812">
+            <img src="/images/reviews/2013/warprecords-345.jpg">
+        </a>
+            <p class="comments light">
+                <a href="/reviews/13812?comments=1"><span>11</span> comments</a>
+            </p>
+<a href="/reviews/13812">
+            <h1>Autechre - L-event</h1>
+        </a>
+            <p class="copy"></p>
+            </article>             </li><li class="min-height-medium">
+    <article class="highlight-top">
+        <a href="/reviews/12427">
+            <img src="/images/reviews/2013/warprecords-234.jpg">
+        </a>
+            <p class="comments light">
+                <a href="/reviews/12427?comments=1"><span>59</span> comments</a>
+            </p>
+<a href="/reviews/12427">
+            <h1>Autechre - Exai</h1>
+        </a>
+            <p class="copy"></p>
+            </article>             </li><li class="min-height-medium">
+    <article class="highlight-top">
+        <a href="/reviews/8245">
+            <img src="/images/reviews/2010/zencds273.jpg">
+        </a>
+            <p class="comments light">
+                <a href="/reviews/8245?comments=1"><span>5</span> comments</a>
+            </p>
+<a href="/reviews/8245">
+            <h1>The Bug - Infected</h1>
+        </a>
+            <p class="copy"></p>
+            </article>             </li><li class="min-height-medium">
+    <article class="highlight-top">
+        <div class="recommended">
+            <div class="overlay"></div>
+            <div class="recommended">
+                <a href="/reviews/7983">
+                    <div class="overlay"></div>
+                    <img src="/images/reviews/2010/psy037.jpg">
+                </a>
+            </div>
+        </div>
+            <p class="comments light">
+                <a href="/reviews/7983?comments=1"><span>11</span> comments</a>
+            </p>
+<a href="/reviews/7983">
+            <h1>Anodyne - Remix EP</h1>
+        </a>
+            <p class="copy"></p>
+    </article>             </li><li class="min-height-medium">
+    <article class="highlight-top">
+        <a href="/reviews/7293">
+            <img src="/images/reviews/2010/warp210.jpg">
+        </a>
+            <p class="comments light">
+                <a href="/reviews/7293?comments=1"><span>36</span> comments</a>
+            </p>
+<a href="/reviews/7293">
+            <h1>Autechre - Oversteps</h1>
+        </a>
+            <p class="copy"></p>
+            </article>             </li><li class="min-height-medium">
+    <article class="highlight-top">
+        <a href="/reviews/5100">
+            <img src="/images/reviews/2008/autechre-quaristice.jpg">
+        </a>
+            <p class="comments light">
+                <a href="/reviews/5100?comments=1"><span>24</span> comments</a>
+            </p>
+<a href="/reviews/5100">
+            <h1>Autechre - Quaristice</h1>
+        </a>
+            <p class="copy"></p>
+            </article>             </li>
+        </ul>
+    </div>
+
+    </section>
+
+        <span>0<span data-role="counter"></span>/</span>
+    </li>
+
+
+        <li class="strip standard">
+        <section class="content moreSeries">
+                <h1 class="heading listing-heading">Other Features</h1>
+    <div class="but heading-more mobile-off">
+        <a href="/features.aspx">More features</a>
+    </div>
+<div class="strip standard slide" data-type="features">
+    <ul class="list otherFeatures">
+<li class="">
+                 <article class="highlight-top">
+                     <a href="/features/2703" title="Breaking Through: Stefan Ringer ">
+                         <img src="/images/features/2016/breaking-thru-stefan-ringer-xl-list.jpg" title="Breaking Through: Stefan Ringer "/>
+                     </a>
+                     <a href="/features/2703">
+                         <h1>Breaking Through: Stefan Ringer </h1>
+                     </a>
+                         <p class="copy">Matt McDermott meets a precocious house producer who is helping put Atlanta on the map. </p>
+                 </article>
+             </li><li class="">
+                 <article class="highlight-top">
+                     <a href="/features/2519" title="Frequency Response: Video">
+                         <img src="/images/features/2016/frequency-response-video-list.jpg" title="Frequency Response: Video"/>
+                     </a>
+                     <a href="/features/2519">
+                         <h1>Frequency Response: Video</h1>
+                     </a>
+                         <p class="copy">In the final part of RA's collaboration with <a href=https://aiaiai.dk/>AIAIAI</a>, Pearson Sound, Avalon Emerson and Lucy soundtrack a video by the multimedia artist Daniel Swan.  </p>
+                 </article>
+             </li><li class="">
+                 <article class="highlight-top">
+                     <a href="/features/2746" title="RA In Residence: Lux Fr&#225;gil">
+                         <img src="/images/features/2016/ra-in-residence-lux-list.jpg" title="RA In Residence: Lux Fr&#225;gil"/>
+                     </a>
+                     <a href="/features/2746">
+                         <h1>RA In Residence: Lux Fr&#225;gil</h1>
+                     </a>
+                         <p class="copy">RA In Residence rolls on with a trip to one of Europe's most beautiful clubs.</p>
+                 </article>
+             </li><li class="">
+                 <article class="highlight-top">
+                     <a href="/features/2748" title="Real estate, gentrification and nightlife in New York  ">
+                         <img src="/images/features/2016/real-estate-gentrification-list.jpg" title="Real estate, gentrification and nightlife in New York  "/>
+                     </a>
+                     <a href="/features/2748">
+                         <h1>Real estate, gentrification and nightlife in New York  </h1>
+                     </a>
+                         <p class="copy">Party promoters in New York are part of a complex game that most don't even know they're playing. Max Pearl reports on how property developers and gentrification are irreversibly shaping the city's dance music scene.</p>
+                 </article>
+             </li><li class="">
+                 <article class="highlight-top">
+                     <a href="/features/2584" title="Top 10 July 2016 Festivals ">
+                         <img src="/images/features/2016/top10-july-list.jpg" title="Top 10 July 2016 Festivals "/>
+                     </a>
+                     <a href="/features/2584">
+                         <h1>Top 10 July 2016 Festivals </h1>
+                     </a>
+                         <p class="copy">In the mood for a festival this July? </p>
+                 </article>
+             </li>    </ul>
+</div>
+    <div class="link-more mobile-only tablet-off">
+        <a href="/features.aspx">More features</a>
+    </div>
+
+        </section>
+        <span>0<span data-role="counter"></span>/</span>
+    </li>
+
+</ul>
+    </main>
+
+    <footer class="clearfix">
+    <ul class="content-list">
+        <li>
+            <div class="content clearfix">
+                <div class="clearfix plus8">
+                    <div class="fl col2-3">
+                        <ul class="pb32">
+                            <li id="logo-footer"><a href="/">RA</a></li>
+                            <li class="f12 grey pt16">Copyright &copy; 2017 Resident Advisor Ltd.</li>
+                            <li class="f12 grey">All rights reserved</li>
+                            <li class="f12 grey"><a href="/privacy">Privacy</a> & <a href="/terms">Terms</a></li>
+                        </ul>
+                    </div>
+                    <div class="fl col4-5 pt60">
+                        <div class="fl col1 footer-category">
+                            <ul>
+                                <li class="f12 grey">Resident Advisor /</li>
+                                <li><a href="/about">About</a></li>
+                                <li><a href="/about/advertising">Advertise</a></li>
+                                <li><a href="/about/jobs">Jobs</a></li>
+                                <li><a href="https://www.residentadvisor.net/promoter.aspx?id=890">RA Events</a></li>
+                                <li><br /></li>
+                            </ul>
+                        </div>
+                        <div class="fl col1 footer-category">
+                            <ul>
+                                <li class="f12 grey">RA Tickets /</li>
+                                <li><a href="/shop/history">My Tickets</a></li>
+                                <li><a href="/shop/faq">Ticketing FAQ</a></li>
+                                <li><a href="/submit-event.aspx">Submit event</a></li>
+                                <li><a href="/about-tickets.aspx">Sell tickets on RA</a></li>
+                                <li><br /></li>
+                            </ul>
+                        </div>
+                        <div class="fl col1 footer-category">
+                            <ul>
+                                <li class="f12 grey">Apps /</li>
+                                <li><a href="/ra-guide">RA Guide</a></li>
+                                <li><a href="https://itunes.apple.com/gb/app/ra-ticket-scanner/id975196719?mt=8">RA Ticket Scanner</a></li>
+                            </ul>
+                        </div>
+                        <div class="fl col1 footer-category">
+                            <ul>
+                                <li class="f12 grey">Elsewhere /</li>
+                                <li><a href="http://www.youtube.com/user/residentadvisor?sub_confirmation=1">Watch on YouTube</a></li>
+                                <li><a href="http://www.facebook.com/residentadvisor">Follow on Facebook</a></li>
+                                <li><a href="https://itunes.apple.com/gb/curator/resident-advisor/id996091687">Listen on Apple Music</a></li>
+                                <li><a href="https://open.spotify.com/user/residentadvisor">Stream on Spotify</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="nobreak">
+            <div class="content clearfix">
+                <div class="clearfix plus8">
+                    <div class="fl col3">
+                        <a href="https://jp.residentadvisor.net/"><a href="https://jp.residentadvisor.net/">RA is also available in Japanese. 日本版</a></a>
+                    </div>
+                    <ul id="social" class="col1p5">
+                        <li class="ytb"><a href="http://www.youtube.com/residentadvisor">RA on YouTube</a></li>
+                        <li class="fcb"><a href="http://www.facebook.com/residentadvisor">RA on Facebook</a></li>
+						<li class="twt"><a href="http://www.twitter.com/residentadvisor">RA on Twitter</a></li>
+                        <li class="gpl"><a href="http://www.google.com/+residentadvisor">RA on Google+</a></li>
+                        <li class="ins"><a href="http://instagram.com/resident_advisor">RA on Instagram</a></li>
+                        <li class="snd"><a href="http://www.soundcloud.com/resident-advisor">RA on Soundcloud</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+    </ul>
+</footer>
+
+
+<script>
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] ||
+            function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-313318-1',
+        'residentadvisor.net');
+    ga('require', 'displayfeatures');
+    ga('send', 'pageview');
+</script>
+    <script src="/bundles/default-js?v=6ttHK6FZYqwDWUvFAOuUoOAYnWe_NWOt73UjiD7iiuk1"></script>
+
+    <script src="/bundles/autocomplete?v=9CXuxbT9YbaB7zpnAzo5lVqTeNDSDleb1sRNuIdlhFg1"></script>
+
+    
+    <script src="/bundles/media-js?v=EOg1dvzHm9n0mkoO1O4wMVhvQDD0O9F5VdmUnWEX-wg1"></script>
+
+    <script src="/bundles/player-js?v=LYevbPBOySe-2reLDBE0QX6MHldDYnFZ_Eai4XZxX501"></script>
+
+    <script src="/bundles/feature-js?v=2R7cggjso7jsPYUH3-rYAq0blKKY5nReUaR0aTvuF9Q1"></script>
+
+    <script src="/bundles/comments-plugin-js?v=ffixhDUvbfN3LHla7WKrjGM3FsWdXxhjvgKzOstmJiQ1"></script>
+
+    <script src="/bundles/share-js?v=q11WXk86jBBN8uqtnm0er4Yj8l4fv4GC6vu1cAviRYY1"></script>
+
+   
+    <script>
+        $('.slide').scrollSnap({ page: 'feature' });
+    </script>
+    
+
+</body>
+</html>

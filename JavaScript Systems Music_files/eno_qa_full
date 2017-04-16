@@ -1,0 +1,1857 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<head>
+    <!-- main -->
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!-- MOBIFY - DO NOT ALTER - PASTE IMMEDIATELY AFTER OPENING HEAD TAG -->
+		<script type="text/javascript">/*<![CDATA[*/(function(a){function b(a,b){if(+a)return~a||(d.cookie=h+"=; path=/");j=d.createElement(e),k=d.getElementsByTagName(e)[0],j.src=a,b&&(j.onload=j.onerror=b),k.parentNode.insertBefore(j,k)}function c(){n.api||b(l.shift()||-1,c)}if(this.Mobify)return;var d=document,e="script",f="mobify",g="."+f+".com/",h=f+"-path",i=g+"un"+f+".js",j,k,l=[!1,1],m,n=this.Mobify={points:[+(new Date)],tagVersion:[6,1],ajs:"//a.mobify.com/wired/a.js"},o=/((; )|#|&|^)mobify-path=([^&;]*)/g.exec(location.hash+"; "+d.cookie);o?(m=o[3])&&!+(m=o[2]&&sessionStorage[h]||m)&&(l=[!0,"//preview"+g+escape(m)]):(l=a()||l,l[0]&&l.push("//cdn"+i,"//files01"+i)),l.shift()?(d.write('<plaintext style="display:none;">'),setTimeout(c)):b(l[0])})(function(){if(/ip(hone|od)|android.*(mobile)|(mobile).*firefox|blackberry.*applewebkit|bb1\d.+mobile/i.test(navigator.userAgent)){return[1,"//cdn.mobify.com/sites/wired/production/mobify.js"]}return[0,Mobify.ajs]})/*]]>*/</script>
+		<!-- END MOBIFY -->
+    
+
+
+    
+            
+        
+
+    
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+<title>Interview: Brian Eno on 77 Million Paintings, Full Transcript </title>
+
+
+    
+
+
+
+
+
+
+
+<meta name="Copyright" content="Copyright (c) 2017 Cond&eacute; Nast Digital. All rights reserved." />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="en-us" />
+<meta name="distribution" content="Global" />
+
+<!-- meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" / -->
+<meta name="viewport" content="width=device-width" />
+
+
+        <meta name="ROBOTS" content="INDEX,FOLLOW,NOODP,NOYDIR" />
+    
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<meta http-equiv="imagetoolbar" content="false" />
+<link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon" />
+<meta name="Author" content="Wired" />
+
+
+<meta property="fb:admins" content="648235154,789168297,688620285,650984415" />
+<meta property="fb:app_id" content="121008698507" />
+<meta property="fb:page_id" content="19440638720" />
+<meta property="og:site_name" content="WIRED" />
+<meta property="og:title" content="Interview: Brian Eno on 77 Million Paintings, Full Transcript" />
+
+
+
+<meta name="gmapkey" content="ABQIAAAAF5yd_X_vTzike6sB6lp3wBQ4h890iMeKvsDZGQOc75SG0lWKAhQW755bw9E_-3ijKe6eqE5sg_NLEw" />
+
+<!-- s_culture art news 2007 07 eno_qa_full -->
+
+
+        <meta name="description"
+              content="Get in-depth tech news coverage from Wired and read about how it is shaping culture, education, entertainment, communications and technology." />
+        <meta name="keywords"
+              content="culture, news, art, entertainment, music, media, video, sex, education, Mac, Macintosh, games, reviews" />
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+        <!-- ECOM: added ecom.common.targeters -->
+        
+        
+        <!-- ECOM: added ecom.headerCallout.targeters -->
+        
+        
+
+        
+                <!-- ECOM: added ecom.global.subService.targeters -->
+                
+                
+
+                
+                        <!-- ECOM: added ecom.xrail.global.targeters -->
+                        
+                        
+                    
+
+            
+        
+
+        <!-- CSS: global -->
+        <link rel="stylesheet" type="text/css" media="all" href="/css/global.css?v=20121120a" />
+        <link rel="stylesheet" type="text/css" media="all" href="/css/global_nav.css?v=20121120a" />
+        <link rel="stylesheet" type="text/css" media="all" href="/css/xrail.css?v=20121120a" />
+
+        <script type="text/javascript" src="/js/cn-fe-common/jquery-1.7.2.min.js"></script>
+
+		<!-- JAVASCRIPT: mbox for AAM -->
+		<script type="text/javascript" src="/js/cn-fe-stats/mbox.js"></script>				
+		
+        <!-- JAVASCRIPT: cn and dart minified -->
+        <script type="text/javascript" src="/js/cn.minified.js?v=20121120a"></script>
+        
+        <!-- JAVASCRIPT: global -->
+        
+
+        <script type="text/javascript" src="/js/global.js?v=20121120a"></script>
+        <script type="text/javascript" src="/js/jquery.hoverIntent.js"></script>
+		<script type="text/javascript" src="/js/global_nav.js?v=20121120a"></script>
+
+        <script type="text/javascript">
+        // <!--
+            var platformEnvironment = "production";
+            CN.site.init({
+                code:  'WIR',
+                title: 'Wired',
+                name:  'wired',
+                env:   'PROD'
+            });
+        // -->
+        </script>
+
+        <!-- JAVASCRIPT: ecom -->
+        <link rel="stylesheet" type="text/css" media="all" href="/css/global_ecom.css?v=20121120a" />
+        <script type="text/javascript" src="/js/ecom/ecomfw.min.js"></script>
+        <script type="text/javascript" src="/js/ecom/ecomPlacement.js"></script>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+                                
+                
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+
+
+    
+
+
+
+
+<script>
+
+    var _ghearst_vars = (function() {
+    var metaKeyWords = (function(){
+    var metaKeywordContent='';
+    metaCollection = document.getElementsByTagName('meta');
+    for (i=0;i<metaCollection.length;i++) {
+        nameAttribute = metaCollection[i].name.search(/keywords/);
+        if (nameAttribute!= -1) {
+            metaKeywordContent = metaCollection[i].content;
+            metaKeywordContent = metaKeywordContent.replace(/,/g,'%2C'); // to replace ,
+            metaKeywordContent = metaKeywordContent.replace(/ /g,''); // to replace space
+        }
+    }
+    return metaKeywordContent;
+    })();
+    return {
+    'ams_ads_script_src': 'http://subscribe.wired.com/ams/page-ads.js?ad_category_prefix=culture&browser_path=%2Fculture%2Fart%2Fnews%2F2007%2F07%2Feno_qa_full&cat_prefixes=%2Cculture%2Cart%2Cnews%2C2007%2C07%2Ceno_qa_full&keywords='+metaKeyWords+'&position_list=AMS_WIR_GLOBAL_NAVBAR%2CAMS_WIR_GLOBAL_NAVBAR_ROLLOVER%2CAMS_WIR_GLOBAL_MAGAZINE_SUBNAV%2CAMS_WIR_CONTENTPAGE_HEADERCALLOUT%2CAMS_WIR_GLOBAL_RIGHTRAIL_SUBSERVICES%2CAMS_WIR_GLOBAL_RIGHTRAIL_A&site_prefix=wired&subdomain=archive&url_name=eno_qa_full'
+    };
+    })();
+    if (!window.$h) {window.$h = {}}(function(){
+    if (!$h.util){$h.util = {
+        buildScriptTag: function(src){
+            if (!!src){
+                document.write('<scr' + 'ipt src="'+src+'" language="javascript"></scr' + 'ipt>')
+                }
+            }
+        }
+    }
+    $h.util.buildScriptTag(_ghearst_vars.ams_ads_script_src)})();
+
+</script>
+
+
+
+    
+
+
+
+
+        
+		
+        
+
+        
+        <link rel="alternate" type="application/rss+xml" title="Wired Top Stories"  href="http://feeds.wired.com/wired/index" />
+
+        
+
+        
+
+        <!-- TYPEKIT -->
+        
+        
+        
+			<script type="text/javascript" src="http://fonts.condenast.com/ztc8lol.js"></script>
+            <!-- Microsoft Campaign -->
+            <script type="text/javascript">
+            //<!--
+                // Async load
+                var buildmypinnedsite = document.createElement('script');
+                    buildmypinnedsite.type = 'text/javascript';
+                    buildmypinnedsite.async = true;
+                    buildmypinnedsite.src = '/js/buildmypinnedsite_634612705116045234.js';
+                    //buildmypinnedsite.src = 'http://buildmypinnedsite.com/script/v1.0/634612705116045234.js';
+                var async_head = document.getElementsByTagName('head')[0];
+                async_head.appendChild(buildmypinnedsite);
+            //-->
+            </script>
+        
+        
+        <script type="text/javascript">
+        //<!--
+            try {
+                var result = Typekit.load();
+
+            } catch( e ) {
+                //CN.debug.warn('Error positioning subnav', e);
+            }
+        //-->
+        </script>
+        
+        <!-- Chartbeat -->
+        <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+    
+
+
+    <style type="text/css" media="screen">@import "/css/toolbox_article_bottom.css";</style>
+    <style type="text/css" media="screen">@import "/css/article.css";</style>
+    <style type="text/css" media="all">@import "/css/wiredcomment.css";</style>
+
+    <script type="text/javascript" src=
+            "http://w.sharethis.com/widget/?tabs=web%2Cemail&amp;charset=utf-8&amp;services=facebook%2Cmyspace%2Cdelicious%2Ctechnorati%2Cpropeller%2Cmixx%2Cnewsvine%2Cgoogle_bmarks%2Cyahoo_myweb%2Cwindows_live%2Ctailrank%2Cmagnolia%2Cfurl%2Cblinklist%2Cblogmarks&amp;style=default&amp;publisher=0ec71848-688b-4d92-957d-d8ba67ad2647&amp;headerbg=%23e7e7e7&amp;inactivebg=%23f1f1f1&amp;inactivefg=%237e7e7e&amp;linkfg=%23007ca5"></script>
+
+    
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <link rel="alternate" type="application/rss+xml"
+                      title="culture:art"
+                      href="http://feeds.wired.com/wired/culture/"/>
+            
+
+        
+    
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+        
+            
+        
+    
+
+    
+    
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    <meta name="Section" content="culture"/>
+    <meta name="env" content="production"/>
+    <meta name="DisplayDate" content="20070702"/>
+    <meta name="PublishDate" content="20070702"/>
+    <meta name="Subsection" content="art"/>
+    <meta name="ExpiryDate" content="21000101"/>
+    <meta name="Author" content=" Michael Calore"/>
+    <meta name="Title" content="Interview: Brian Eno on <cite>77 Million Paintings</cite>, Full Transcript"/>
+    
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+            <script type="text/javascript">
+    //<!--
+        
+        CN.dart.init({site:'wiredcom.dart', zone: 'culture_article;', kws:[ "2007","eno_qa_full","news","art","culture","07"], charmap : {' ' : '+', '-' : '_'}});
+    //-->
+    </script>
+        
+
+
+</head>
+
+<body class="newsarticlesmall s_culture art news 2007 07 eno_qa_full">
+
+<div id="global_header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+    <!--
+    STATIC LEGACY BLOGS NAV
+-->
+<div id="nav-wrap">
+    <nav class="">
+        <h1 id="logo"><a href="http://www.wired.com/">WIRED</a></h1>
+        <ul id="primary-nav" class="">
+            <li class="gear">
+                <h2><a class="non-js-menu" href="http://www.wired.com/gear/">Gear</a></h2>
+            </li><!-- /.gear -->
+            <li class="science">
+                <h2><a class="non-js-menu" href="http://www.wired.com/science/">Science</a></h2>
+            </li><!-- /.science -->
+            <li class="entertainment">
+                <h2><a class="non-js-menu" href="http://www.wired.com/entertainment/">Entertainment</a></h2>
+            </li><!-- /.entertainment -->
+            <li class="business">
+                <h2><a class="non-js-menu" href="http://www.wired.com/business/">Business</a></h2>
+            </li><!-- /.business -->
+            <li class="security">
+                <h2><a class="non-js-menu" href="http://www.wired.com/security/">Security</a></h2>
+            </li><!-- /.security -->
+            <li class="design">
+                <h2><a class="non-js-menu" href="http://www.wired.com/design/">Design</a></h2>
+            </li><!-- /.design -->
+            <li class="opinion">
+                <h2><a class="non-js-menu" href="http://www.wired.com/category/opinion/">Opinion</a></h2>
+            </li><!-- /.opinion -->
+            <li class="video">
+                            <h2><a href="http://video.wired.com/">Video</a></h2>
+            </li><!-- /.video -->
+
+            <li class="insider secondary">
+                <h2><a href="http://wiredinsider.com">Insider</a></h2>
+            </li><!-- /.insider.secondary -->
+            <li class="magazine secondary">
+                <h2><a href="http://www.wired.com/magazine/">Magazine</a></h2>
+            </li><!-- /.magazine.secondary -->
+            <li class="subscribe secondary">
+                <h2 id="AMS_WIR_GLOBAL_NAVBAR"><a target="_blank" href="https://w1.buysub.com/loc/WIR/ATGFailsafe"><span>Subscribe</span></a></h2>  
+            </li><!-- /.subscribe.secondary -->
+        </ul><!-- /#primary-nav -->
+
+        <ul id="nav-extras">
+            <li class="rss">
+                <h2 class="rss-icon"><a href="http://www.wired.com/about/rss_feeds/">RSS</a></h2>
+            </li>
+            <li class="search">
+                <h2 class="search-icon"><a href="http://www.wired.com/search/">Search</a></h2>
+            </li><!-- /.search.secondary -->
+        </ul><!-- /#nav-extras -->
+    </nav>
+</div><!-- /#nav-wrap -->
+
+
+
+
+
+        <div id="leaderboard">
+            <div class="advertisement" id="bannerAd">
+                
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+        <div id="topLeaderboard728x90_frame" class="displayAd displayAd728x90Js" data-cb-ad-id="topLeaderboard728x90_frame"></div>
+    <script type="text/javascript">
+    //<!--
+        
+        CN.dart.call('topLeaderboard', {sz:'728x90', kws:["top"]});
+    //-->
+    </script>
+    
+
+                
+            </div>
+            <div class="subscriptionUnit">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div id="AMS_WIR_CONTENTPAGE_HEADERCALLOUT">
+            <a target="_blank" href="https://w1.buysub.com/loc/WIR/ATGFailsafe">
+                <img alt="Subscribe to Wired" src="/images/global_header/subscribe/gh_lbSubUnit.gif" />
+            </a>
+            
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+<script>
+
+(function(){
+    if((typeof pageAds != 'undefined') && (typeof pageAds.AMS_WIR_CONTENTPAGE_HEADERCALLOUT != 'undefined') && (CN.url.params('nojoy') !=1) ) {
+        var div = document.getElementById("AMS_WIR_CONTENTPAGE_HEADERCALLOUT");
+        div.innerHTML = "";
+        document.write(pageAds.AMS_WIR_CONTENTPAGE_HEADERCALLOUT);
+    }
+    else { // If NO response from HEARST
+        //var failSafeArea = ""; var displayFailsafeDiv = document.getElementById(failSafeArea); displayFailsafeDiv.style.display = "block";
+    }
+
+    
+})();
+
+</script>
+
+        </div>
+    
+
+
+            </div>
+            <div class="clearer"></div>
+        </div>
+    
+</div>
+
+<div id="shell">
+    <div id="content">
+
+        <div id="contentwell">
+            <cite></cite>
+
+
+
+<div id="article">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="matchbook_rain">
+    </div>
+
+
+
+
+<div id="section">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a
+            href="/culture">Culture</a>
+&nbsp;&#58;&nbsp;
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <a href="/culture/art">Art</a> &nbsp;
+    
+    <a href="http://feeds.wired.com/wired/culture/art" rel="nofollow" target="_blank">
+        <img src="/images/icon_rss.gif" class="img_middle" alt="RSS"/></a>
+
+</div>
+
+<!-- start article body -->
+<div id="article_body">
+
+
+
+
+
+
+        <h1 id="articlehed">Interview: Brian Eno on <cite>77 Million Paintings</cite>, Full Transcript</h1>
+    
+
+
+
+
+<div class="date_time">
+    
+    
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+    
+        
+            
+                
+                 
+                     <span id="contributor" class="c cs">
+                         Michael Calore
+                     </span>
+
+                    
+                        <a href="/services/feedback/letterstoeditor">
+                            <img src="/images/icon_email.gif" class="img_middle" alt="Email" />
+                        </a>
+                    
+                
+            
+        
+    
+    
+    <span id="display_date">
+        
+                
+            
+        
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+        
+    
+    
+        
+            
+            
+        
+    
+
+    
+     
+
+        
+        
+
+        
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                07.02.07
+            
+         
+     
+
+    
+
+
+    
+
+
+
+    </span>
+    
+
+    
+
+
+
+</div>
+
+<!-- only display photo on first page -->
+
+
+
+    
+    
+
+        <!-- start article photo -->
+
+        
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+    <div id="article_text">
+
+        
+                <p>We called artist and musician Brian Eno in London to discuss his latest art installation, <cite><a href="http://www.77millionpaintings.com/">77 Million Paintings</a></cite>. The North American premiere in San Francisco was mounted by the <a href="http://www.longnow.org/">Long Now Foundation</a>.</p><p> His new endeavor is one of his many "generative" works -- the artist establishes specific parameters for the artwork to exist in, then lets a computer arrange the pieces. Eno developed special software to display his hand-drawn images as randomly overlapping, constantly moving patterns of color and light. The full, unedited transcript of Wired News' telephone interview follows. </p> <p><strong>Wired News:</strong> What drew you toward working with generative art and generative music?</p> <p><strong>Brian Eno:</strong> Well, part of it is that it's an extremely good value (laughter) because it was possible to make a lot of work from a very small amount of original material. That was one thing I found very interesting, because once I started working with generative music in the 1970s, I was flirting with ideas of making a kind of endless music -- not like a record that you'd put on and which would play for a while and finish. I like the idea of a kind of eternal music, but I didn't want it to be eternally repetitive, either. I wanted it to be eternally changing. So I developed two ideas in that way. <cite>Discreet Music</cite> was like that and <cite>Music for Airports</cite>. What you hear on the recordings is a little part of one of those processes working itself out. Theoretically, the processes were infinite but unfortunately, recordings aren't of infinite length. So you sort of had a diagram, or really you got a "still" from the piece. That was really the best way of explaining it.</p> <p>Then, as I started doing installation work in the late 1970s and '80s, I started realizing that I could make effectively endless pieces of music and pieces of visual material by exploring the possibility of combinations and permutations. They're not actually infinite, but as far as any human observer is concerned they are, in that none of us will ever live long enough to see all of their possibilities exhausted.</p> <p>So that was one thing. I felt it was a way of solving the goals I had set for myself of making endless music. But the other thing that interested me about it was that it put me, as the artist, in a different position because -- it put me more in the position of the audience because I couldn't possible predict all the states that one of these pieces would take. And indeed, one of the really big payoffs of the whole thing has been suddenly hearing or seeing things that I wouldn't have imagined -- and I probably would never have thought of doing.</p> <p>The pieces surprise me. I have the <cite>77 Million Paintings</cite> running in my studio a lot of the time. Occasionally I'll look up from what I'm doing and I think, "God, I've never seen anything like that before!" And that's a real thrill.</p> <p><strong>WN:</strong> When you look at it, do you feel like it's something that you had a hand in creating?</p> <p><strong>Eno:</strong> Well, I know I did, but it's a little bit like if you are dealing hands of cards and suddenly you deal four aces. You know it's only another combination that's no more or less likely than any of the other combinations of four cards you could deal. Nonetheless, some of the combinations are really striking. You think, "Wow -- look at that one." That's rather what happens. Sometimes some combination comes up and I know it's some result of this system that I invented, but nonetheless I didn't imagine such a thing could be produced by it.</p> <p><strong>WN:</strong> It's interesting you say that, because even though the work is structured to have very specific rules to go by, it still has the feeling of the unexpected. I can see some really strong parallels with something like an improvisational music performance. The musicians don't necessarily know what's coming next and the audience certainly has a stronger connection to it because they're aware the musicians aren't just going through the motions -- it's something that's always evolving.</p> <p><strong>Eno:</strong> Yes, and in fact the inspiration for this work really came from music, and in particular it came from a small group of composers who were at the time called the New Tonalists. Terry Riley was one of them. Steve Reich, Philip Glass -- these were all people who were exploiting some kind of minimalist aesthetic where they were working with a very limited amount of input material. Then the process of the piece was really that material being reconfigured in various ways to make new combinations.</p> <p>You probably know that famous Terry Riley piece called "In C." It's this piece of music which is 22 or 26 bars long. All the bars are in C, and the musicians all start at bar one. They can repeat bar one as many times as they want before moving on to bar two, and each individual musician makes the decision when to move on to the next bar. So, of course, halfway through the piece, there are at least 20 or 25 different bars being played simultaneously. As a piece on paper, it's very simple. But as a performance, it's very complex and always different. This really inspired me. I saw such economy in that and such admirable ingenuity in it. So I think I've been carrying that line of thought into visual art, really.</p> <!--pagebreak--> <p><strong>WN:</strong> Did you have any specific sounds or images in mind when you were constructing the slides?</p> <p><strong>Eno:</strong> Those slides really came from ... I've been doing installations with slide projectors for about 20 years. What I would do is use several projectors 10 or 12 all projecting on the same surface. So, therefore, all of the images summing together make one image. I'd start the installations about a week before they opened by making the slides. Drawing them by hand, etching them or scratching the designs. Sometimes there were photographic elements as well. Then I would try them out and find that one particular slide worked with nearly everything it came into contact with, and other ones didn't seem to work very well. At every installation, I would watch the slides going through and think, "OK, I'll get rid of that one for the next show," or "This one's really good and I should do more like it." So I evolved the images in <cite>77 Million Paintings</cite> over the last 20 years.</p> <p>They're a very unlikely set of images. If you looked at them individually, you'd think some of them are so uninteresting when they're out of combination with anything else it's quite counterintuitive that they would work when they're connected up with other images. It's certainly not a group of images you would arrive at just by sitting down with this idea and deciding to make it work. They really evolved over quite a long period of time. The music as well actually evolved over a long period of time. </p> <p><strong>WN:</strong> Was the music something you began composing long before the project?</p> <p><strong>Eno:</strong> Variations of that piece have always been the music for this multiple image permutation work I've been doing. The music has varied over time as well as I've introduced different elements and left out some -- some have been there for a long time. So gradually the music has mutated, though not so much as the slides, actually. The music has been a more constant factor than the images.</p> <p><strong>WN:</strong> How much of a relationship does place have with how you think the audience perceives <cite>77 Million Paintings</cite>? You know, where it's installed, whether they're viewing it at home or in a gallery.</p> <p><strong>Eno:</strong> It makes a lot of difference. First of all, if people go somewhere to look at something, they've already made a commitment of time. They are therefore likely to make a bigger commitment. It's unlikely that they'll ride all the way across town, look in and leave in 15 or 30 seconds. You'll probably think just because you made that long journey, you'll stay longer. My experience is that once people stay for a minute or two, they stay for a long time. People generally don't stay for three or five minutes. They either leave almost immediately if it's something they really don't think they're interested in or they settle down and they stay -- sometimes for hours and hours and hours.</p> <p>It's the most remarkable thing about these shows, the audience behavior. There's no narrative structure, nothing is happening very quickly, there's really little encouragement to stay for a long time. But sometimes people will settle in and stay for up to eight hours at a time. In fact, the biggest difficulty we've had with these shows is trying to move people around so we can let new people in. Sometimes it gets full and people can't get in because nobody wants to leave. That's sometimes been a problem in smaller venues. So for public use, these pieces are very sensational in a way. They're big and bright and intensely colorful. </p> <p>People get the idea that this isn't like an art gallery situation where you walk in, read the label and move on to the next thing. It's not like that. </p> <p>It strikes me as one of the most interesting things about these shows is not one of the most immediately visible. One of the strangest experiences you'll be having is an experience of time in a different way. You'll see people rushing in off the street and they're all busy and their body language is hectic -- a "show me what's happening" kind of language. And you watch them gradually settling down and start to slow down to the pace of the work, which is very slow. People seem really, really grateful for this possibility.</p> <!--pagebreak--> <p><strong>WN:</strong> It has a meditative quality to it.</p> <p><strong>Eno:</strong> Absolutely. It's like going into a park or something like that. And I think the nicest thing that people so often say after these shows -- sometimes we have a visitor's book, and people come out saying "I wish there was always a place like this to go to in this town." So, that's a real compliment, I think.</p> <p><strong>WN:</strong> How does the audio element of <cite>77 Million Paintings</cite> relate to the audio work you're doing for <em>Spore</em>?</p> <p><strong>Eno:</strong> The <em>Spore</em> work is also generative, which is to say that you won't have the same musical experience in a particular part of the game at any moment. Some of the parts of the game are more fixed than others. For example, when you first open the game -- and this is the way we're thinking about it at the moment, anyway -- there will be a sort of signature that you'll recognize and it will happen pretty much identically each time. But as you go into the game and start to explore different parts of it, your choices will make a difference to what plays in quite a lot of ways. The landscape of the places that you're in will effect what's playing. So you will not hear exactly the same thing over and over. Most game music is based on loops effectively. Well, this isn't, really.</p> <p><strong>WN:</strong> So it's much more of a constantly evolving score -- almost an artificial intelligence based on how the person is doing in the game and what they're doing at that moment.</p> <p><strong>Eno:</strong> That's right, yeah. </p> <p><strong>WN:</strong> I was wondering if you could talk about how you see your artwork in particular evolving from your use of TV, videotape and stationary slides into now what you're doing now with software, giant LCD screens and projections. How has the work itself evolved?</p> <p><strong>Eno:</strong> I'm always interested in what you can do with technology that people haven't thought of doing yet. I think that's sort of a characteristic of the way I've worked ever since I started. So, you know, initially when I discovered the recording studio, I realized -- as indeed, lots of other people did -- that there are all sorts of things you can do in a recording studio that weren't possible previously in music. Phil Spector knew that, and a lot of other people knew as well. But the breakthrough for me -- I happened to start working in studios just at the time that multi-tracking became available, and I realized it made music-making a lot like painting in that you could add and take away colors, you could stretch things and turn them upsidedown and do all sorts of different things. So I thought of myself as a sonic painter rather than as a composer. </p> <p>Then, I started to get into using video, and I found that there were things you could do with that that people hadn't been doing. Then, I discovered slide projectors, which were wonderful because you could work at such a scale with a slide projector. You could work in a very large scale and you could program projectors to work in interesting ways, to shuffle slides up and so on. </p> <p> So, it was always really trying to pick technologies that were around and seeing what else you could do with them. You know, I think that technology is always invented for historical reasons, to solve a historical problem. But they very soon reveal themselves to be capable of doing things that aren't historical that nobody had ever thought of doing before.</p> <p>Now, with this latest piece, which is obviously completely computer-based, I see a lot of possible future directions for that as well. None of which I want to go into detail about -- not because I'm trying to keep them secret, but because my thoughts aren't very clear on them.</p> <p><strong>WN:</strong> One of the things I like about technology is the limitation it places on you. I think the limitations influence the art, too -- most of the time for the better.</p> <p><strong>Eno:</strong> Yes. I remember this campaign Microsoft had.... They tried to present the computer, as people often do, as a machine that can do anything. I think their campaign was "Go wherever your imagination takes you," or something like that. In fact, if you work with computers for a while, you learn that some things are far easier to do than others (laughter). And there's no doubt that there's a level playing field -- you will tend to do certain things with computers and tend to not do other things. </p> <p>So as long as you acknowledge that that's in the nature of the beast -- that it has its own character and you can work with that character, it's fine. That's something that painters have known for some time. They knew that oil paint will do things that watercolors won't do and vice versa. The same is true for computers.</p>
+            
+
+        <script language="JavaScript1.2" type="text/javascript">
+            if (typeof drawDropCap == "function") {
+                var arrExcludeDivs = new Array("article_itemlist");
+                drawDropCap("articletext", arrExcludeDivs);
+            }
+        </script>
+    </div>
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end article content -->
+
+
+
+
+<div id="toolbox_art_bot">
+
+    <div class="float_r" id="pagination">
+
+            
+        
+
+    </div>
+
+    <div id="social_bkmrks">
+        
+
+
+<ul>
+    <li class="sb_button sb_facebook-small">
+        <div class="fb-like" data-href="http://www.wired.com/culture/art/news/2007/07/eno_qa_full" data-send="false" data-layout="button_count" data-width="60" data-show-faces="false"></div>
+    </li>
+    <li class="sb_button sb_twitter-small">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal"></a>
+    </li>
+    <li class="sb_button sb_google-small">
+        <g:plusone size="medium"></g:plusone>
+    </li>
+    <li class="sb_button sb_linkedin-small">
+        <script type="IN/Share" data-url="http://www.wired.com/culture/art/news/2007/07/eno_qa_full" data-counter="right"></script>
+    </li>
+</ul>
+
+    </div>
+
+</div>
+<!-- close toolbox_art_bot -->
+
+<div class="matchbook_plus" id="mb_article_end">
+</div>
+
+<div class="matchbook_plus"></div>
+
+<div id="article_footer">
+
+    
+        <a name="corrections"></a>
+        
+    
+
+    <div id="left_col">
+        
+
+
+
+
+
+<div id="see_also">
+    
+        
+				<h3>
+					See Also:
+				</h3>
+        
+
+        
+		
+		
+		
+		
+		
+        
+		
+        
+                <p>
+                    <a href="http://blog.wired.com/monkeybites/2007/06/an_army_of_macs.html">Compiler: An Army of Macs Powers Brian Eno's Sculptures of Sight and Sound</a>
+                </p>
+            
+    
+        
+
+        
+		
+		
+		
+		
+		
+        
+		
+        
+                <p>
+                    <a href="/culture/lifestyle/news/2001/10/47670">New Eno Music Gets 'Generative'</a>
+                </p>
+            
+    
+        
+
+        
+		
+		
+		
+		
+		
+        
+		
+        
+                <p>
+                    <a href="/culture/lifestyle/commentary/imomus/2007/02/72705">Artistic Ennui Is on the Menu</a>
+                </p>
+            
+    
+        
+
+        
+		
+		
+		
+		
+		
+        
+		
+        
+                <p>
+                    <a href="/wired/archive/7.01/eno.html">The Revenge of the Intuitive</a>
+                </p>
+            
+    
+	
+</div>
+
+
+    </div>
+
+    <div id="right_col">
+        <div id="search">
+
+            <form action="/search" id="nav_search" name="search" onSubmit="return validateSearch(this)">
+                <div class="title">
+                    Search Wired
+                </div>
+                <input type="text" class="input_text" name="query"/>
+                <select class="search_filter" id="art_filter" name="siteAlias">
+                    <option value="noblog" class="opt" id="art_top_stories" name="noblog" default="true">Top Stories
+                    </option>
+                    <option value="mag" class="opt" id="art_mag" name="mag"> Magazine</option>
+                    <option value="blog" class="opt" id="art_blogs" name="blog">Wired Blogs</option>
+                    <option value="all" class="opt" id="art_all" name="all">All Wired</option>
+                </select>
+
+                <div id="wrapper">
+                    <input type="image" class="go" src="http://wired.com/images/icon_search_go.gif" alt="Go"/>
+                </div>
+            </form>
+        </div>
+
+        
+
+
+
+
+    <div class="title">
+        Related Topics:
+    </div>
+
+    <p>
+        
+        
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <a href="/culture">Culture</a>
+, 
+            
+        
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <a href="/entertainment">Entertainment</a>
+, 
+            
+        
+        
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <a href="/culture/art">Art</a>
+, 
+            
+        
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <a href="/entertainment/music">Music</a>
+
+            
+        
+    </p>
+
+
+
+
+    </div>
+
+</div>
+<!-- close article_footer -->
+
+
+<div class="matchbook_plus" class="no_print">
+</div>
+
+ 
+
+
+
+</div>
+<!-- close article_body -->
+
+        
+                
+                        
+
+
+
+
+
+
+
+
+
+<a name="comments"/>
+
+<div id="outerWrapper" class="reddit_export_wrapper">
+<div id="commentContainer" class="reddit_export_wrapper_contents">
+
+<script>
+
+
+function loadCurArticleComments() {
+    
+    
+    
+     
+          loadComments(escape('/culture/art/news/2007/07/eno_qa_full'), 0, 10, false);
+    
+}
+loadCurArticleComments();
+</script>
+</div>
+</div>
+
+                    
+            
+    
+</div>
+<script language="JavaScript" type="text/javascript">
+    // set omniture variables
+    setProp5 = "article";
+</script>
+<!--reuters-->
+        </div>
+        <div id="xrail">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- start xrail: Article -->
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+        <div id="xrailTop300x250_frame" class="displayAd displayAd300x250Js" data-cb-ad-id="xrailTop300x250_frame"></div>
+    <script type="text/javascript">
+    //<!--
+        
+        CN.dart.call('xrailTop', {sz:'300x250', kws:["top"]});
+    //-->
+    </script>
+    
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div id="AMS_WIR_SECTIONS_RIGHTRAIL_A">
+            <div id="mag_sub_promo">
+                <div class="sub_unit">
+                    <div class="cover_img">
+                        <a target="_blank" href="https://w1.buysub.com/loc/WIR/ATGFailsafe"><img src="/images/subscribe/xrail_cover.gif" alt="Subscribe" /></a>
+                    </div>
+                    <div class="text_side">
+                        <div class="xrail_headline">
+                            <a target="_blank" href="https://w1.buysub.com/loc/WIR/ATGFailsafe"><img src="/images/subscribe/xrail_headline.gif" alt="Subscribe" /></a>
+                            <br clear="all"/>
+                        </div>
+                        <div class="xrail_bullets">
+                            <p><a target="_blank" href="https://w1.buysub.com/loc/WIR/ATGFailsafe">Subscribe to WIRED</a></p>
+                            <p><a target="_blank" href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=WIR&amp;cds_page_id=2659">Renew</a></p>
+                            <p><a target="_blank" href="https://w1.buysub.com/loc/WIR/ATGFailsafeGift">Give a gift</a></p>
+                            <p><a target="_blank" href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=WIR&amp;cds_page_id=2659">Customer Service</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+<script>
+
+(function(){
+    if((typeof pageAds != 'undefined') && (typeof pageAds.AMS_WIR_SECTIONS_RIGHTRAIL_A != 'undefined') && (CN.url.params('nojoy') !=1) ) {
+        var div = document.getElementById("AMS_WIR_SECTIONS_RIGHTRAIL_A");
+        div.innerHTML = "";
+        document.write(pageAds.AMS_WIR_SECTIONS_RIGHTRAIL_A);
+    }
+    else { // If NO response from HEARST
+        //var failSafeArea = ""; var displayFailsafeDiv = document.getElementById(failSafeArea); displayFailsafeDiv.style.display = "block";
+    }
+
+    
+})();
+
+</script>
+
+        </div>
+    
+
+
+
+        
+        <script type="text/javascript" language="javascript" src="/js/ads/google_customize.js"></script>
+
+<div id="ad_rail">
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+        <div id="xrailBottom300x250_frame" class="displayAd displayAd300x250Js" data-cb-ad-id="xrailBottom300x250_frame"></div>
+    <script type="text/javascript">
+    //<!--
+        
+        CN.dart.call('xrailBottom', {sz:'300x250', kws:["bottom"]});
+    //-->
+    </script>
+    
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div class="scrape services">
+            <h3><span>Services</span></h3>
+
+            <div id="AMS_WIR_GLOBAL_RIGHTRAIL_SUBSERVICES">
+                <div class="group"><strong>Subscription: </strong><a target="_new" href="https://w1.buysub.com/loc/WIR/ATGFailsafe">Subscribe</a> | <a target="_new" href="https://w1.buysub.com/loc/WIR/ATGFailsafeGift">Give&nbsp;a&nbsp;Gift</a> | <a target="_new" href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=WIR&amp;cds_page_id=2659">Renew</a> | <a target="_new" href="https://w1.buysub.com/loc/WIR/ATGFailsafeInt">International</a> | <a target="_new" href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=WIR&amp;cds_page_id=2659">Questions</a> | <a target="_new" href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=WIR&amp;cds_page_id=2659">Change&nbsp;Address</a></div>
+                
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+<script>
+
+(function(){
+    if((typeof pageAds != 'undefined') && (typeof pageAds.AMS_WIR_GLOBAL_RIGHTRAIL_SUBSERVICES != 'undefined') && (CN.url.params('nojoy') !=1) ) {
+        var div = document.getElementById("AMS_WIR_GLOBAL_RIGHTRAIL_SUBSERVICES");
+        div.innerHTML = "";
+        document.write(pageAds.AMS_WIR_GLOBAL_RIGHTRAIL_SUBSERVICES);
+    }
+    else { // If NO response from HEARST
+        //var failSafeArea = ""; var displayFailsafeDiv = document.getElementById(failSafeArea); displayFailsafeDiv.style.display = "block";
+    }
+
+    
+})();
+
+</script>
+
+            </div>
+
+            <div class="group">
+                <strong>Quick Links:</strong>
+                <a href="/about/feedback/">Contact Us</a>
+                | <a href="/user/login" id="login_link">Login/Register</a><a href="/user/logout" id="logout_link">Logout</a>
+                | <a href="/services/newsletters">Newsletter</a>
+                | <a href="/about/rss_feeds/">RSS Feeds</a>
+                | <a href="http://jobs.wired.com">Tech Jobs</a>
+                | <a href="/about/mobile/">Wired Mobile</a>
+                | <a href="/about/faq">FAQ</a>
+                | <a href="/about/sitemap/">Sitemap</a>
+            </div>
+        </div>
+
+    
+
+
+
+    
+
+
+
+        </div>
+        <div class="clearer"><!--  --></div>
+        
+            <div align="center">
+                
+
+
+
+
+
+
+
+
+
+
+        <div id="footer728x90_frame" class="displayAd displayAd728x90Js" data-cb-ad-id="footer728x90_frame"></div>
+    <script type="text/javascript">
+    //<!--
+        
+        CN.dart.call('footer', {sz:'728x90', kws:["bottom"]});
+    //-->
+    </script>
+    
+
+            </div>
+        
+        
+
+
+
+
+
+<div id="footer">
+	<div id="foot_row1">
+		<div class="pad">
+			<span class="link_row">
+                <a href="/about/sitemap/">Sitemap</a>
+                | <a href="/about/faq/">FAQ</a>
+                | <a href="/about/feedback/">Contact Us</a>
+                | <a href="/about/staff_web/">WIRED Staff</a>
+                | <a href="/about/staff_publishing/" target="_blank">Advertising</a>
+                | <a href="/about/press/">Press Center</a>
+                | <a href="http://www.wired.com/customerservice" target="_blank">Subscription Services</a>
+                | <a href="/services/newsletters">Newsletter</a>
+                | <a id="footer_rss_icon" href="/about/rss_feeds/">RSS Feeds</a>
+            </span>
+        </span>
+    </div>
+        <div class="clear"></div>
+    </div>
+	<div id="foot_row3">
+		<div class="pad">
+			<strong>Cond&eacute; Nast Web Sites:</strong>
+			<div class="condenet_sites">
+                <a href="http://www.webmonkey.com">Webmonkey</a> |
+                <a href="http://www.reddit.com">Reddit</a> |
+                <a href="http://www.arstechnica.com">ArsTechnica</a> |
+                <a href="http://www.details.com/">Details</a> |
+                <a href="http://www.golfdigest.com/">Golf Digest</a> |
+        		<a href="http://www.gq.com/">GQ</a> |
+		        <a href="http://www.newyorker.com/">New Yorker</a>
+            </div>
+			<div id="drop_downs">
+                <form id="footer_dropdowns">
+                <fieldset>
+                <select id="footer_dropdowns_subscribe" name="footer_dropdowns_subscribe">
+                    <option>Subscribe to a magazine:</option>
+                    <option value="http://www.magazinestoresubscriptions.com/?source=SITEFOOTER">View All Titles</option>
+                    <option value="http://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Allure?source=SITEFOOTER">Allure</option>
+                    <option value="http://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_ArchitecturalDigest?source=SITEFOOTER">Architectural Digest</option>
+                    <option value="http://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_BonAppetite?source=SITEFOOTER">Bon App&#233;tit</option>
+                    <option value="http://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Brides?source=SITEFOOTER">Brides</option>
+                    <option value="http://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_CondeNastTraveler?source=SITEFOOTER">Cond&#233; Nast Traveler</option>
+                    <option value="http://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Details?source=SITEFOOTER">Details</option>
+                    <option value="http://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Glamour?source=SITEFOOTER">Glamour</option>
+                    <option value="http://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GolfDigest?source=SITEFOOTER">Golf Digest</option>
+                    <option value="http://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GolfWorld?source=SITEFOOTER">Golf World</option>
+                    <option value="http://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GQ?source=SITEFOOTER">GQ</option>
+                    <option value="http://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Lucky?source=SITEFOOTER">Lucky</option>
+                    <option value="http://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Self?source=SITEFOOTER">Self</option>
+                    <option value="http://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_TeenVogue?source=SITEFOOTER">Teen Vogue</option>
+                    <option value="http://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_NewYorker?source=SITEFOOTER">The New Yorker</option>
+                    <option value="http://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_VanityFair?source=SITEFOOTER">Vanity Fair</option>
+                    <option value="http://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Vogue?source=SITEFOOTER">Vogue</option>
+                    <option value="http://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_W?source=SITEFOOTER">W</option>
+                    <option value="http://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Wired?source=SITEFOOTER">WIRED</option>
+                </select>
+                <select id="footer_dropdowns_sites" name="footer_dropdowns_sites">
+                    <option>Cond&#233; Nast web sites:</option>
+                    <option value="http://www.allure.com/">Allure</option>
+                    <option value="http://www.architecturaldigest.com/">Architectural Digest</option>
+                    <option value="http://www.arstechnica.com/">ArsTechnica</option>
+                    <option value="http://www.bonappetit.com/">Bon App&eacute;tit</option>
+                    <option value="http://www.brides.com/">Brides.com</option>
+                    <option value="http://www.cntraveler.com/">Cond&eacute; Nast Traveler</option>
+                    <option value="http://www.portfolio.com/">Cond&eacute; Nast Portfolio</option>
+                    <option value="http://www.concierge.com/">Concierge</option>
+                    <option value="http://www.details.com/">Details</option>
+                    <option value="http://www.epicurious.com/">Epicurious</option>
+                    <option value="http://www.glamour.com/">Glamour</option>
+                    <option value="http://www.golfdigest.com">Golf Digest</option>
+                    <option value="http://www.golfworld.com">Golf World</option>
+                    <option value="http://www.gq.com/">GQ</option>
+                    <option value="http://www.hotelchatter.com/">Hotel Chatter</option>
+                    <option value="http://www.jaunted.com/">Jaunted</option>
+                    <option value="http://www.luckymag.com/">Lucky</option>
+                    <option value="http://www.nutritiondata.com/">Nutrition Data</option>
+                    <option value="http://www.reddit.com/">Reddit</option>
+                    <option value="http://www.self.com/">Self</option>
+                    <option value="http://www.style.com">Style.com</option>
+                    <option value="http://www.teenvogue.com/">Teen Vogue</option>
+                    <option value="http://www.newyorker.com/">The New Yorker</option>
+                    <option value="http://www.vanityfair.com/">Vanity Fair</option>
+                    <option value="http://www.vogue.com">Vogue</option>
+                    <option value="http://www.webmonkey.com">Webmonkey</option>
+                    <option value="http://www.wmagazine.com/">W</option>
+                </select>
+                <select id="footer_dropdowns_international" name="footer_dropdowns_international">
+                    <option>International Sites:</option>
+                    <option value="http://www.wired.co.uk">Wired UK</option>
+                    <option value="http://www.wired.it">Wired Italy</option>
+                    <option value="http://wired.jp">Wired Japan</option>
+                </select>
+                </fieldset>
+                </form>
+			</div>
+
+           <div class="copyright">
+                <p>WIRED.com &copy; 2017 Cond&eacute; Nast. All rights reserved. Use of this Site constitutes acceptance of our <a href="http://www.condenast.com/privacy-policy" title="User Agreement" target="_blank">User Agreement</a> <span class="revision-date">(effective 3/21/12)</span> and <a href="http://www.condenast.com/privacy-policy#privacypolicy" title="Privacy Policy" target="_blank">Privacy Policy</a> <span class="revision-date">(effective 3/21/12)</span>. <a href="http://www.condenast.com/privacy-policy#privacypolicy-california" title="Privacy Policy" target="_blank">Your California Privacy Rights</a>.</p>
+                <p>The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written <a href="http://www.condenast.com/reprints-permissions" target="_blank">permission of Cond&eacute; Nast</a>.</p>
+                <div class="add-choice">
+                    <a class="ac" href="http://www.condenast.com/privacy-policy#privacypolicy-optout" title="Privacy Policy" target="_blank">Ad Choices</a>
+                </div>
+            </div>
+		</div>
+        <div class="clear"></div>
+	</div>
+    <div class="clear"></div>
+</div>
+
+
+    </div>
+    <!-- close content div -->
+</div>
+<!-- close shell div -->
+
+<!-- Stats -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+//<!--
+    var _gaq = _gaq || [];
+    _gaq.push(['a._setAccount', 'UA-2624369-1']);
+    _gaq.push(['a._trackPageview']);
+    (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+//-->
+</script>
+
+<!-- SiteCatalyst code version: H.15.1. Copyright 1997-2008 Omniture, Inc. -->
+<script type="text/javascript">
+//<!--
+    var s_account="conde-wired";
+    var s_linkInternalFilters="javascript:,wired.com";
+    var s_trackingServer="stats.wired.com";
+    var s_trackingServerSecure='sstats.wired.com';
+//-->
+</script>
+<script type="text/javascript" src="/js/omniture/omniture_helpers.js"></script>
+<script type="text/javascript">
+//<!--
+    /* You may give each page an identifying name, server, and channel on
+    the next lines. Omniture variables. */
+    s.pageType=setPageType
+    s.prop1=setProp1
+    s.prop2=setProp2
+    s.prop3="";
+    s.prop5=setProp5
+    s.prop6=setProp6
+    s.prop7=setProp7
+    s.prop8=setProp8
+    s.prop9=setProp9
+    try{
+        s.prop10=s.prop1.replace(/ /g,',')
+    } catch(err) {
+        s.prop10="";
+    }
+    s.prop51="Non-Mobile"
+    s.events=setEvents
+    s.hier1=omniHierarchy
+    s.evar51="Non-Mobile"
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code=s.t();
+    if(s_code) {
+        document.write(s_code);
+    }
+//-->
+</script>
+<script type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://condenast.112.2o7.net/b/ss/conde-wired/1/H.15.1--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.15.1. -->
+
+<script type="text/javascript">
+//<!--
+    var _sf_async_config = {
+        uid:      15455,
+
+        domain:   "wired.com",
+    
+        useCanonical: true
+    };
+    (function(){
+        function loadChartbeat() {
+            window._sf_endpt=(new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src', (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") + "static.chartbeat.com/js/chartbeat_pub.js");
+            document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+        loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+//-->
+</script>
+
+
+<!-- Scripts -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!-- Lazy load images when possible -->
+        <script type="text/javascript" src="/js/lazy-load/jquery.sonar.min.js"></script>
+        <script type="text/javascript" src="/js/lazy-load/lazy-load.js"></script>
+		
+		
+
+        
+		<img width="1px" height="1px" src="https://pixel.tapad.com/tap/pxl.png?ta_property_id=322&ta_action_id=Wired_Audience_Pixel1" />		
+    
+
+
+</body>
+</html>

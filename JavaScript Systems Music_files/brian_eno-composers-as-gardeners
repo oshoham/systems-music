@@ -1,0 +1,425 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+<meta charset="utf-8"/>
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"75c7b4234ef5cab794e7b726514629ca",petok:"8e47c835342460cbc4bdef8402c335a20114de5c-1492380910-1800",zone:"edge.org",rocket:"a",apps:{}}];document.write('<script type="text/javascript" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=905ca5bd16/cloudflare.min.js"><'+'\/script>');}}catch(e){};
+//]]>
+</script>
+<link href="https://www.edge.org/sites/all/themes/edge_adaptive/images/touch-icon-h.png" rel="apple-touch-icon-precomposed" sizes="114x114"/>
+<link href="https://www.edge.org/sites/all/themes/edge_adaptive/images/touch-icon-m.png" rel="apple-touch-icon-precomposed" sizes="72x72"/>
+<link href="https://www.edge.org/sites/all/themes/edge_adaptive/images/touch-icon-l.png" rel="apple-touch-icon-precomposed"/>
+<link href="https://www.edge.org/sites/all/themes/edge_adaptive/images/touch-icon-l.png" rel="shortcut icon"/>
+<link rel="shortcut icon" href="https://www.edge.org/favicon.ico" type="image/vnd.microsoft.icon"/>
+<meta name="Generator" content="Drupal 7 (http://drupal.org)"/>
+<link rel="canonical" href="/conversation/brian_eno-composers-as-gardeners"/>
+<link rel="shortlink" href="/node/21443"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1"/>
+<meta http-equiv="cleartype" content="on"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="MobileOptimized" content="width"/>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<title>Composers as Gardeners | Edge.org</title>
+<style>@import url("https://www.edge.org/modules/system/system.base.css?oobkzk");@import url("https://www.edge.org/modules/system/system.menus.css?oobkzk");@import url("https://www.edge.org/modules/system/system.messages.css?oobkzk");@import url("https://www.edge.org/modules/system/system.theme.css?oobkzk");</style>
+<style>@import url("https://www.edge.org/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?oobkzk");@import url("https://www.edge.org/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?oobkzk");@import url("https://www.edge.org/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.accordion.min.css?oobkzk");@import url("https://www.edge.org/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.button.min.css?oobkzk");@import url("https://www.edge.org/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.resizable.min.css?oobkzk");@import url("https://www.edge.org/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.dialog.min.css?oobkzk");</style>
+<style>@import url("https://www.edge.org/modules/comment/comment.css?oobkzk");@import url("https://www.edge.org/sites/all/modules/date/date_api/date.css?oobkzk");@import url("https://www.edge.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?oobkzk");@import url("https://www.edge.org/sites/all/modules/date/date_repeat_field/date_repeat_field.css?oobkzk");@import url("https://www.edge.org/modules/field/theme/field.css?oobkzk");@import url("https://www.edge.org/modules/node/node.css?oobkzk");@import url("https://www.edge.org/modules/search/search.css?oobkzk");@import url("https://www.edge.org/modules/user/user.css?oobkzk");@import url("https://www.edge.org/sites/all/modules/extlink/extlink.css?oobkzk");@import url("https://www.edge.org/sites/all/modules/views/css/views.css?oobkzk");@import url("https://www.edge.org/sites/all/modules/ckeditor/css/ckeditor.css?oobkzk");</style>
+<style>@import url("https://www.edge.org/sites/all/modules/accordion_blocks/accordion_init.css?oobkzk");@import url("https://www.edge.org/sites/all/modules/amazon/amazon.css?oobkzk");@import url("https://www.edge.org/sites/all/modules/colorbox/styles/default/colorbox_style.css?oobkzk");@import url("https://www.edge.org/sites/all/modules/ctools/css/ctools.css?oobkzk");@import url("https://www.edge.org/sites/all/modules/lightbox2/css/lightbox.css?oobkzk");@import url("https://www.edge.org/sites/all/modules/panels/css/panels.css?oobkzk");@import url("https://www.edge.org/sites/all/modules/shorten/shortener/shortener.css?oobkzk");@import url("https://www.edge.org/sites/all/modules/simple_dialog/css/simple_dialog.css?oobkzk");@import url("https://www.edge.org/sites/all/modules/stickynav/css/stickynav.css?oobkzk");@import url("https://www.edge.org/sites/all/modules/views_slideshow/views_slideshow.css?oobkzk");</style>
+<style media="screen">@import url("https://www.edge.org/sites/all/themes/adaptivetheme/at_core/css/at.layout.css?oobkzk");@import url("https://www.edge.org/sites/all/themes/edge_adaptive/css/global.base.css?oobkzk");@import url("https://www.edge.org/sites/all/themes/edge_adaptive/css/global.styles.css?oobkzk");@import url("https://www.edge.org/sites/all/themes/edge_adaptive/css/edge.views.css?oobkzk");@import url("https://www.edge.org/sites/all/themes/edge_adaptive/css/edge.modules.custom.css?oobkzk");@import url("https://www.edge.org/sites/all/themes/edge_adaptive/css/edge.custom.css?oobkzk");@import url("https://www.edge.org/sites/all/themes/edge_adaptive/css/edge.mailchimpform.css?oobkzk");</style>
+<style media="print">@import url("https://www.edge.org/sites/all/themes/edge_adaptive/css/print.css?oobkzk");</style>
+<link type="text/css" rel="stylesheet" href="https://www.edge.org/sites/default/files/adaptivetheme/edge_adaptive_files/edge_adaptive.responsive.layout.css?oobkzk" media="only screen"/>
+<link type="text/css" rel="stylesheet" href="https://www.edge.org/sites/all/themes/edge_adaptive/css/responsive.custom.css?oobkzk" media="only screen"/>
+<link type="text/css" rel="stylesheet" href="https://www.edge.org/sites/all/themes/edge_adaptive/css/responsive.smartphone.portrait.css?oobkzk" media="only screen and (max-width:320px)"/>
+<link type="text/css" rel="stylesheet" href="https://www.edge.org/sites/all/themes/edge_adaptive/css/responsive.smartphone.landscape.css?oobkzk" media="only screen and (min-width:321px) and (max-width:480px)"/>
+<link type="text/css" rel="stylesheet" href="https://www.edge.org/sites/all/themes/edge_adaptive/css/responsive.tablet.portrait.css?oobkzk" media="only screen and (min-width:481px) and (max-width:768px)"/>
+<link type="text/css" rel="stylesheet" href="https://www.edge.org/sites/all/themes/edge_adaptive/css/responsive.tablet.landscape.css?oobkzk" media="only screen and (min-width:769px) and (max-width:1024px)"/>
+<link type="text/css" rel="stylesheet" href="https://www.edge.org/sites/all/themes/edge_adaptive/css/responsive.desktop.css?oobkzk" media="only screen and (min-width:1025px)"/>
+<!--[if (lt IE 9)&(!IEMobile 7)]>
+<style media="screen">
+@import url("https://www.edge.org/sites/default/files/adaptivetheme/edge_adaptive_files/edge_adaptive.lt-ie9.layout.css?oobkzk");
+</style>
+<![endif]-->
+ 
+<script type="text/rocketscript" data-rocketsrc="//use.typekit.net/ule5riu.js"></script>
+<script type="text/rocketscript">try{Typekit.load();}catch(e){}</script>
+ 
+</head>
+<body class="tk-freight-sans-pro html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-21443 node-type-conversation site-name-hidden">
+<div id="skip-link">
+<a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+</div>
+<div id="page" class="container page">
+ 
+<div class="print-only header-copyright">Copyright &copy; 2017 By Edge Foundation, Inc. All Rights Reserved.</div>
+<header id="header" class="clearfix" role="banner">
+ 
+<div id="branding" class="branding-elements clearfix">
+<div id="logo">
+<a href="/" title="Home page"><img class="site-logo image-style-none" typeof="foaf:Image" src="https://www.edge.org/sites/default/files/edge_logo.jpg" alt="Edge.org"/></a> </div>
+ 
+<hgroup class="element-invisible" id="name-and-slogan">
+<strong class="element-invisible" id="site-name"><a href="/" title="Home page">Edge.org</a></strong>
+</hgroup> 
+</div> 
+ 
+<div class="region region-header"><div class="region-inner clearfix"><div id="block-block-8" class="block block-block no-title">
+<div class="content" class="block-content content">
+<div style="clear: right; float:right; width: 330px;">
+<script type="text/rocketscript">
+  (function() {
+    var cx = '012042634644280309647:jygomqbx65u';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+</div> </div>
+</div>
+<div id="block-block-4" class="block block-block social-media-links no-title">
+<div class="content" class="block-content content">
+<div class="twitter">
+<a href="https://twitter.com/edge" target="_blank">&nbsp;</a></div>
+<div class="rss">
+<a href="feed">&nbsp;</a></div>
+<div class="google">
+<a href="http://blogsearch.google.com/blogsearch?hl=en&amp;q=link%3Ahttp%3A//www.edge.org&amp;btnG=Search+Blogs">&nbsp;</a></div>
+<div id="contact-form">
+ 
+<div class="box"><a href="#popup1">Get Edge.org by Email</a></div>
+<div id="popup1" class="overlay">
+<div class="popup">
+<h2>Subscribe to Edge</h2>
+<a class="close" href="#">&times;</a>
+<p>You can subscribe to Edge and receive e-mail versions of EdgeEditions as they are published on the web. Fill out the form, below, with your name and e-mail address and your subscription will be automatically processed. </p>
+<div class="content">
+ 
+<link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
+<style type="text/css">#mc_embed_signup{background:#fff;clear:left;font:14px Helvetica,Arial,sans-serif;}</style>
+<div id="mc_embed_signup">
+<form action="//edge.us10.list-manage.com/subscribe/post?u=618959fcd3fd186cbea6e44ef&amp;id=2bc2bc2868" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<div id="mc_embed_signup_scroll">
+<div class="mc-field-group">
+<label for="mce-EMAIL">Email address <span>*</span>
+</label>
+<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+<label for="mce-FNAME">Your name <span>*</span>
+</label>
+<input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+<label for="mce-MMERGE3">Country <span>*</span>
+</label>
+<input type="text" value="" name="MMERGE3" class="required" id="mce-MMERGE3">
+</div>
+<div id="mce-responses" class="clear">
+<div class="response" id="mce-error-response" style="display:none"></div>
+<div class="response" id="mce-success-response" style="display:none"></div>
+</div>  
+<div style="position: absolute; left: -5000px;"><input type="text" name="b_618959fcd3fd186cbea6e44ef_2bc2bc2868" tabindex="-1" value=""></div>
+<div class="clear"><input type="submit" value="subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</div>
+</form>
+</div>
+<script type="text/rocketscript" data-rocketsrc='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type="text/rocketscript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[3]='MMERGE3';ftypes[3]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+ 
+<p><span>NOTE</span>: if you use a spam-filter that uses a challenge/response or authenticated e-mail address system, you must include <b>"<a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="f491909d809b86b491909391da9b8693">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script>"</b> on your list of approved senders or you will not receive our e-mail.</p>
+<div class="pop_up_unsub"><a class="unsubscribe" href="https://edge.us10.list-manage.com/unsubscribe?u=618959fcd3fd186cbea6e44ef&id=2bc2bc2868" target="_blank">unsubscribe</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="block-block-1" class="block block-block site-slogan no-title">
+<div class="content" class="block-content content">
+<p><font face="Times New Roman, Times, Serif"><em>To arrive at the edge of the world's knowledge, seek out the most complex and sophisticated minds, put them in a room together, and have them ask each other the questions they are asking themselves.</em></font></p>
+</div>
+</div>
+</div></div>
+<div class="print-only url-date">
+https://www.edge.org/conversation/brian_eno-composers-as-gardeners<br>Printed On Sun April 16th 2017 </div>
+</header>
+ 
+<div id="primary-menu-bar" class="nav clearfix">
+<nav class="primary-menu-wrapper menu-wrapper clearfix" role="navigation">
+<span id="date-stamp">Sun, Apr 16, 2017</span><ul class="menu primary-menu"><li class="menu-218 first"><a href="/" title="">HOME</a></li><li class="menu-539 active-trail"><a href="/conversations" title="" class="active-trail">CONVERSATIONS</a></li><li class="menu-580"><a href="/videos" title="The Edge video library">VIDEOS</a></li><li class="menu-776"><a href="/annual-questions">ANNUAL QUESTION</a></li><li class="menu-598"><a href="/events" title="">EVENTS</a></li><li class="menu-528"><a href="/news" title="">NEWS</a></li><li class="menu-597"><a href="/library" title="">LIBRARY</a></li><li class="menu-427 last"><a href="/about-edgeorg">ABOUT</a></li></ul> </nav>
+</div>
+ 
+ 
+ 
+ 
+<div id="columns" class="columns clearfix">
+<div id="content-column" class="content-column" role="main">
+<div class="content-inner">
+ 
+<section id="main-content">
+<header id="main-content-header" class="clearfix">
+<h1 id="page-title">
+Composers as Gardeners </h1>
+</header>
+ 
+ 
+<div class="page content-highlight clearfix">
+<div class="region region-content-highlight"><div class="region-inner clearfix"><div id="block-views-content-summary-block" class="block block-views no-title">
+<div class="content" class="block-content content">
+<div class="view view-content-summary view-id-content_summary view-display-id-block view-dom-id-8b9878105bd5951074e66e1c618c70e5">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-nothing views-field-field-category"> <span class="field-content topic"><a href="/conversations">Conversation</a> : <a href="/conversations/topic/CULTURE">CULTURE</a></span> </div>
+<div class="views-field views-field-title"> <h1 class="field-content">Composers as Gardeners</h1> </div>
+<span class="views-field views-field-field-byline"> <span class="field-content"></span> </span>
+<span class="views-field views-field-field-edge-author"> <span class="field-content"><span class="member-name"><a href="/memberbio/brian_eno">Brian Eno</a></span></span> </span>
+<span class="views-field views-field-field-date"> <span class="field-content">[11.10.11]</span> </span>
+<div class="views-field views-field-body clearfix"> <div class="field-content"> <p><em style="font-family: verdana, geneva, sans-serif; ">"My topic is the shift from 'architect' to 'gardener', where 'architect' stands for 'someone who carries a full picture of the work before it is made', to 'gardener' standing for 'someone who plants seeds and waits to see exactly what will come up'. I will argue that today's composer are more frequently 'gardeners' than 'architects' and, further, that the 'composer as architect' metaphor was a transitory historical blip."</em></p>
+<div style="text-align: center; ">
+<strong style="font-family: Verdana, Geneva, sans-serif; font-size: 16px; "><a class="style2" href="https://edge.org/memberbio/brian_eno" style="font-family: Verdana, Geneva, sans-serif; font-size: 16px; " target="new"><img alt="" src="https://edge.org/3rd_culture/infogardens/eno200.gif" style="cursor: default; margin-left: 230px; margin-right: 230px; width: 200px; height: 200px; "/></a></strong></div>
+<div>
+<p align="left"><span style="font-size:12px;">BRIAN ENO is an Artist; Composer; Recording Producer: U2, Coldplay, Talking Heads, Paul Simon; Recording Artist ( <span id="btAsinTitle"><em>Drums Between the </em></span><em>Bells, </em><em><span id="btAsinTitle2">Small Craft on a Milk Sea</span>, <span id="btAsinTitle3">Everything That Happens Will Happen Today</span>, <span id="btAsinTitle4">Another Green World</span></em>).</span></p>
+<p><span style="font-size:12px;"><strong><a href="https://edge.org/memberbio/brian_eno" target="_blank"><span style="color:#8b4513;">Brian Eno's <em>Edge</em> Bio Page</span></a></strong></span></p>
+<hr/><p style="text-align: center; "><img alt="" src="https://edge.org/images/bk_413_476_serpentine_edge.jpeg"/></p>
+<p>On Sunday, October 16th,<em style="text-align: -webkit-left; "> Edge</em>, at the invitation of long-time <em>Edge</em> collaborator, <a href="https://edge.org/memberbio/hans_ulrich_obrist" style="text-align: -webkit-left; " target="new"><span style="color: rgb(139, 69, 19); "><strong>Hans Ulrich Obrist</strong></span></a><span style="text-align: -webkit-left; color: rgb(139, 69, 19); "><strong> (HUO), </strong><span style="color: rgb(0, 0, 0); ">co-director of the Serpentine Gallery,</span> </span><em>Edge</em> participated in <strong style="text-align: -webkit-left; "><a href="https://edge.org/conversation/serpentine-gallery-edge-2011" target="_blank"><span style="color: rgb(139, 69, 19); ">The Serpentine Gallery Garden Marathon</span></a></strong>, the sixth in the Gallery’s acclaimed Marathon series. We were asked to explore the concept of "the information garden". In addition to HUO, the <em>Edge </em>participants were artist and composer <strong><a href="https://edge.org/memberbio/brian_eno" target="_blank"><span style="color:#8b4513;">Brian Eno</span></a></strong><span style="color:#8b4513;">, </span>post-doctoral researcher <span style="color:#(color);"><strong><a href="https://edge.org/memberbio/jennifer_jacquet" style="text-align: -webkit-left; " target="_blank">Jennifer Jacquet</a></strong></span>, and evolutionary biologist <strong><a href="https://edge.org/memberbio/mark_pagel" target="_blank"><span style="color:#8b4513;">Mark Pagel</span></a></strong>. </p>
+<p class="rtecenter"> </p>
+</div>
+<hr/><p><span style="font-size:16px;"><span style="color: rgb(139, 69, 19);">COMPOSERS AS GARDENERS</span></span></p>
+<p><strong>[BRIAN ENO:] </strong>About the time when I first started making records, I was also starting to become aware of a new sort of organizing principle in music.  I think like many people, I had assumed that music was produced, or created in the way that you imagine symphony composers make music, which is by having a complete idea in their head in every detail and then somehow writing out ways by which other people could reproduce that.  In the same way as one imagines an architect working.  You know, designing the building, in all its details, and then having that constructed.</p>
+<p>In the mid-'60s, there started to appear some music that really wasn't like that at all.  And in fact, it was about the time I started making music, and I found that I was making music in this same rather unusual new way.  So that the music I was listening to then in particular, in relation to this point, was Terry Riley's "In C" and Steve Reich's famous tape pieces, "It's Gonna Rain" and "Come Out."  And various other pieces as well. </p>
+<p>Of course, I was also familiar with Cage and his use of randomness, and new ways of making musical decisions.  Or not making them.  What fascinated me about these kinds of music was that they really completely moved away from that old idea of how a composer worked.  It was quite clear with these pieces, for example "In C," that the composer didn't have a picture of the finished piece in his head when he started.  What the composer had was a kind of menu, a packet of seeds, you might say.  And those musical seeds, once planted, turned into the piece.  And they turned into a different version of that piece every time. </p>
+</div> </div> </div>
+</div>
+</div> </div>
+</div>
+<div id="block-views-2f94f1af7406481d629ad928ab35e6dc" class="block block-views no-title">
+<div class="content" class="block-content content">
+<div class="view view-video-display view-id-video_display view-display-id-block_video_display view-dom-id-abe4f879897f130cbfc06825c1b4964d">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-video-embed"> <div class="field-content"><div>
+<iframe src="https://player.vimeo.com/video/79332813" width="620" height="349" frameborder="0" title="Brian Eno - Composers as Gardeners" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div></div> </div> </div>
+</div>
+</div> </div>
+</div>
+</div></div> </div>
+<div id="content" class="region">
+<div id="block-system-main" class="block block-system no-title">
+<div class="content" class="block-content content">
+<article id="node-21443" class="node node-conversation article clearfix" about="/conversation/brian_eno-composers-as-gardeners" typeof="sioc:Item foaf:Document" role="article">
+<div class="node-content">
+<span class="print-link"></span><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even" property="content:encoded"> <p>So for me, this was really a new paradigm of composing.  Changing the idea of the composer from somebody who stood at the top of a process and dictated precisely how it was carried out, to somebody who stood at the bottom of a process who carefully planted some rather well-selected seeds, hopefully, and watched them turn into something.  Now, I was sort of looking for support for that idea.  The term 'bottom-up' hadn't come into existence then.  Chaos theory, complexity theory, so on, they didn't exist.  I don't even think we had catastrophe theory then. </p>
+<p>What we did have, though, was cybernetics.  And I became very interested in the work of a cybernetician called Stafford Beer.  In fact, I became friends with him, ultimately.  Stafford had written a book called <em>The Brain Of The Firm, The Managerial Cybernetics Of Organization</em>,  which came out, I think, in '72 or '73.  And it was a very exciting book because it was essentially about this idea, again, unspoken at the time, of bottom-up organization, of things growing from the bottom and turning into things of greater complexity. </p>
+<p>Now, you must understand why this was surprising at the time.  It's surprising for the same reason that evolution theory is still surprising to most Americans.  Which is that the concept of something intelligent coming from something simple is very hard to understand.  It's not intuitive at all.  The whole shock about Darwinian evolution is that simplicity turns into complexity.  It's not obvious that that should happen. </p>
+<p>What happened in Stafford's work was that he was talking about organization and how things organize themselves in this new way.  And there was one sentence in the book which I think I still remember, he said 'instead of trying to organize it in full detail, you organize it only somewhat and you then rely on the dynamics of the system to take you in the direction you want to go.'  And this became my sort of motto for how I wanted composition to be. </p>
+<p>As I said, I started a correspondence with Stafford, and we did some presentations about this idea, both in music and science, in Canada.  Around about the end of the '70s, I started to become aware of another field of activity, which at that time was represented by just one single example in my experience.  And this was the cellular automaton game called "Life," by the mathematician, John Conway.  I won't go into that now because I don't have time, but to give you a very simple glimpse of what that was about, I think to science, it sort of had the kind of impact that Duchamp's urinal had in art.  It's sort of such a simple idea, which was so glowingly far-reaching that you thought my God, everything's different now. </p>
+<p>"Life" is a very simple mathematical game which is entirely deterministic, which is to say that you know exactly what all the inputs to the system are, you know exactly what rules govern it, and they're very simple rules, and yet the outcomes are extremely unintuitive. They're very unpredictable, sometimes extremely boring, sometimes incredibly elaborate and beautiful.  But more than anything else, they're not predictable.  So your intuition kind of runs out on you there. </p>
+<p>And shortly after that, various other versions of cellular automatons started to make themselves known to me.  I don't really know the history of them, chronologically, but I became aware of two-dimensional cellular automata Steven Wolfram, people like that, were starting to work with.  And I started to realize that in science, too, there was this feeling that we had to start thinking about organization in a different way.  We had to start thinking about how things came into being with a different set of paradigms. </p>
+<p>And I will try to explain this to people, here this is where I make a connection to the subject we're talking about today, I would try to explain this to people in terms of talking about the difference between an architect and a gardener.  An architect, at least in the traditional sense, is somebody who has an in-detail concept of the final result in their head, and their task is to control the rest of nature sufficiently to get that built.  Nature being things like bricks and sites and builders and so on.  Everything outside has to be subject to an effort of control.</p>
+<p>A gardener doesn't really work like that.  Unless it's, as Mark's mentioned, Versailles, which is, to me, the most grotesque of all gardens, since it's the total denial of nature and the complete expression of human control over nature.  So it's a perfect forerunner to the Industrial Age, Versailles.  But what I think about, I suppose my feeling about gardening, and I suppose most people's feeling about gardening now, is that what one is doing is working in collaboration with the complex and unpredictable processes of nature.  And trying to insert into that some inputs that will take advantage of those processes, and as Stafford Beers said, take you in the direction that you wanted to go. </p>
+<p>Use the dynamics of the system to take you in the direction you wanted to go.  So I don't know how much time we've got.  Okay, okay.  So my feeling has been that the whole concept of how things are created and organized has been shifting for the last 40 or 50 years, and as I said, this sequence of science as cybernetics, catastrophe theory, chaos theory and complexity theory, are really all ways of us trying to get used to this idea that we have to stop thinking of top-down control as being the only way in which things could be made.</p>
+<p>We have to actually lose the idea of intelligent design, because that's actually what that is.  The top-down theory is the same as intelligent design.  And we have to actually stop thinking like that and start understanding that complexity can arise in another way and variety and intelligence and so on.  So my own response to this has been, as an artist, to start to think of my work, too, as a form of gardening.  So about 20 years ago I came up with this idea, this term, 'generative music,' which is a general term I use to cover not only the stuff that I do, but the kind of stuff that Reich is doing, and Terry Riley and lots and lots of other composers have been doing. </p>
+<p>And essentially the idea there is that one is making a kind of music in the way that one might make a garden.  One is carefully constructing seeds, or finding seeds, carefully planting them and then letting them have their life.  And that life isn't necessarily exactly what you'd envisaged for them.  It's characteristic of the kind of work that I do that I'm really not aware of how the final result is going to look or sound.  So in fact, I'm deliberately constructing systems that will put me in the same position as any other member of the audience.  I want to be surprised by it as well.  And indeed, I often am.</p>
+<p>What this means, really, is a rethinking of one's own position as a creator.  You stop thinking of yourself as me, the controller, you the audience, and you start thinking of all of us as the audience, all of us as people enjoying the garden together.  Gardener included.  So there's something in the notes to this thing that says something about the difference between order and disorder.  It's in the preface to the little catalog we have.  Which I take issue with, actually, because I think it isn't the difference between order and disorder, it's the difference between one understanding of order and how it comes into being, and a newer understanding of how order comes into being.</p>
+<p>And another way I can translate that is to say it's a repositioning of ourselves on the control/surrender spectrum.  I'll talk briefly about that, then I'll shut up.  We're used to the idea, coming from the industrial and very intelligent post-Enlightenment history that we have, we're used to the idea that the great triumph of humans is their ability to control.  And indeed, that must be the case, to some extent.</p>
+<p>What we're not so used to is the idea that another great gift we have is the talent to surrender and to cooperate.  Cooperation and surrender are actually parts of the same skill.  To be able to surrender is to be able to know when to stop trying to control.  And to know when to go with things, to be taken along by them.  And that's a skill that we actually have to start relearning.  Our hubris about our success in terms of being controllers has made us overlook that side of our abilities.  So we're so used to dignifying controllers that we forget to dignify surrenderers. </p>
+<p>The reason I have an a cappella group of the kind that John mentioned is because it gives me every Tuesday evening the chance to do some surrendering.  Which is, by the way, the reason people go to church, I think, as well.  And to art galleries.  What you want from those experiences is to be reminded of what it's like to be taken along by something.  To be taken.  To be lifted up, to be whatever the other words for transcendence are.  And I think we find those experiences in at least four areas.  Religion, sex, art, and drugs.  So I tend to put those all under the umbrella of surrender, and in fact, it's interesting that if you look at the various cultures of the world, those things are either totally dignified or totally taboo.  In different mixtures in different cultures.  In some cultures some of them are mixed together, like Hindu culture mixes sex and religion.  Some cultures mix drugs and religion.  I don't know of any culture that mixes all of them, but if any of you do, please tell me about it.   </p>
+<p>But essentially they're all experiments with ourselves in trying to remind ourselves that the controlling talent that we have must be balanced by the surrendering talent that we also have.  And so my idea about art as gardening is to sort of revivify that discussion and to say let's accept the role of gardener as being equal in dignity to the role of architect, as in fact, is shown in this lovely pavilion here.  Thank you, that's all.</p>
+</div></div></div> </div>
+<span property="dc:title" content="Composers as Gardeners" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span></article>
+</div>
+</div>
+<div id="block-views-edge-service-links-block" class="block block-views no-title">
+<div class="content" class="block-content content">
+<div class="view view-edge-service-links view-id-edge_service_links view-display-id-block view-dom-id-febb53d4761f9967de72030665ff9e8d">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-service-links service-links"> <span class="field-content"><ul class="links"><li class="service-links-twitter-widget first"><a href="https://twitter.com/share?url=http%3A//tinyurl.com/jygg9fy&amp;count=none&amp;via=edge&amp;text=Composers%20as%20Gardeners&amp;counturl=https%3A//www.edge.org/conversation/brian_eno-composers-as-gardeners" class="twitter-share-button service-links-twitter-widget" title="Tweet This" rel="nofollow" target="_blank"><span class="element-invisible">Tweet Widget</span></a></li><li class="service-links-facebook-like"><a href="https://www.facebook.com/plugins/like.php?href=https%3A//www.edge.org/conversation/brian_eno-composers-as-gardeners&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;width=80&amp;height=21&amp;font=&amp;locale=en_US" title="I Like it" class="service-links-facebook-like" rel="nofollow" target="_blank"><span class="element-invisible">Facebook Like</span></a></li><li class="service-links-google-plus-one"><a href="https://www.edge.org/conversation/brian_eno-composers-as-gardeners" title="Plus it" class="service-links-google-plus-one" rel="nofollow" target="_blank"><span class="element-invisible">Google Plus One</span></a></li><li class="service-links-linkedin-share-button"><a href="https://www.edge.org/conversation/brian_eno-composers-as-gardeners" title="Share on Linkedin" class="service-links-linkedin-share-button" rel="nofollow" target="_blank"><span class="element-invisible">Linkedin Share Button</span></a></li><li class="service-links-facebook-share"><a href="https://www.facebook.com/sharer.php" title="Share this post on Facebook" class="service-links-facebook-share" rel="https://www.edge.org/conversation/brian_eno-composers-as-gardeners" target="_blank"><span class="element-invisible">Share on Facebook</span></a></li><li class="service-links-pinterest-button"><a href="https://pinterest.com/pin/create/button/?url=https%3A//www.edge.org/conversation/brian_eno-composers-as-gardeners&amp;description=&amp;media=" class="pin-it-button service-links-pinterest-button" title="Pin It" rel="nofollow" target="_blank"><span class="element-invisible">Pinterest</span></a></li><li class="service-links-printmail"><a href="https://www.edge.org/printmail/node/21443" title="Send to a friend" class="service-links-printmail" rel="nofollow" target="_blank"><img typeof="foaf:Image" class="image-style-none" src="https://www.edge.org/sites/all/modules/service_links/images/printmail.png" alt="Print Mail logo"/></a></li><li class="service-links-print last"><a href="https://www.edge.org/print/node/21443" title="Printable version" class="service-links-print" rel="nofollow" target="_blank"><img typeof="foaf:Image" class="image-style-none" src="https://www.edge.org/sites/all/modules/service_links/images/print.png" alt="Print HTML logo"/></a></li></ul></span> </div> </div>
+</div>
+</div> </div>
+</div>
+</div>
+ 
+</section> 
+ 
+</div> 
+</div> 
+ 
+<div class="region region-sidebar-second sidebar"><div class="region-inner clearfix"><div id="block-views-7a3f1a70c1bedb9b5927bb117e5d8428" class="block block-views whats-related">
+<h2 class="block-title">What&#039;s Related</h2>
+<div class="content" class="block-content content">
+<div class="view view-get-authors-photo view-id-get_authors_photo view-display-id-block_conversation_contributors authors view-dom-id-210257c2098819d28e933fff35389c53">
+<div class="view-header">
+<h3>People</h3>
+</div>
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last authors clearfix">
+<div class="views-field views-field-picture"> <div class="field-content"><a href="/memberbio/brian_eno"><img typeof="foaf:Image" class="image-style-mini-thumbnail" src="https://www.edge.org/sites/default/files/styles/mini-thumbnail/public/member-pictures/bk_59_brian_eno.gif?itok=uPe8iPul" width="48" height="48" alt=""/></a></div> </div>
+<div class="views-field views-field-field-last-name member-name"> <div class="field-content"><a href="/memberbio/brian_eno">Brian Eno</a></div> </div>
+<div class="views-field views-field-field-user-title"> <div class="field-content">Artist; Composer; Recording Producer: U2, Coldplay, Talking...</div> </div> </div>
+</div>
+</div> </div>
+</div>
+<div id="block-views-d4ae1b901fce8345e4063a235f011968" class="block block-views related-videos">
+<h2 class="block-title">Video</h2>
+<div class="content" class="block-content content">
+<div class="view view-content-related-videos view-id-content_related_videos view-display-id-block_related_videos view-dom-id-d80bbf44fcd54465aeae095504fd0ee4 view-single-result">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-title"> <span class="field-content">Composers as Gardeners</span> </div>
+<div class="views-field views-field-field-video-embed"> <div class="field-content"><div>
+<iframe src="https://player.vimeo.com/video/79332813" width="320" height="180" frameborder="0" title="Brian Eno - Composers as Gardeners" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div></div> </div> </div>
+</div>
+</div> </div>
+</div>
+<div id="block-views-audio-library-block-1" class="block block-views audio-block">
+<h2 class="block-title">Audio</h2>
+<div class="content" class="block-content content">
+<div class="view view-audio-library view-id-audio_library view-display-id-block_1 view-dom-id-3a93b202cee10d6c8eb1c5f503154e51 view-single-result">
+<div class="view-content">
+<div>
+<div class="views-field views-field-field-audio-title"> <div class="field-content">Composers as Gardeners</div> </div>
+<div class="views-field views-field-field-audio"> <div class="field-content"></div> </div>
+<div class="views-field views-field-php"> <span class="field-content"><div id="embed_1"></div><script data-rocketsrc="https://connect.soundcloud.com/sdk/sdk-3.0.0.js" type="text/rocketscript"></script>
+<script type="text/rocketscript">
+        var url = 'http://soundcloud.com/edgefoundationinc/brian-eno-composers-as-gardeners';       
+        console.log(url);
+        SC.oEmbed(url, {
+	  auto_play: false,
+sharing:false,
+          maxheight : 160
+	}).then(function(embed){
+	  console.log(document.getElementById("<? echo 'embed_' . $_SESSION['embeddivid']; ?>").innerHTML);
+          document.getElementById("<? echo 'embed_' . $_SESSION['embeddivid']; ?>").innerHTML = embed.html;
+	});
+    </script></span> </div>
+<span class="views-field views-field-field-date"> <span class="field-content">[11.10.11]</span> </span> </div>
+</div>
+</div> </div>
+</div>
+<div id="block-views-7a6dcaecc2e4c1b6aef83dbc89fa89fb" class="block block-views">
+<h2 class="block-title">Beyond Edge</h2>
+<div class="content" class="block-content content">
+<div class="view view-people-beyond-edge-links view-id-people_beyond_edge_links view-display-id-block_conversation_beyond_links view-dom-id-6a23b44b9c671f9cba69d5b763b4f026">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-beyond-edge"> <div class="field-content"><a href="https://www.edge.org/documents/archive/edge202.html#eno" target="_blank">Constellations</a></div> </div> </div>
+</div>
+</div> </div>
+</div>
+<div id="block-views-76ae26164919a4fd3cb6c8476a405398" class="block block-views books-by-conversation-author">
+<h2 class="block-title">Books</h2>
+<div class="content" class="block-content content">
+<div class="view view-library view-id-library view-display-id-block_conversation_books books  books-by-conversation-author view-dom-id-9daae7eabde3962e2a825627277c159c">
+<div class="view-content">
+<table class="views-view-grid cols-2">
+<tbody>
+<tr class="row-1 row-first row-last">
+<td class="col-1 col-first">
+<div class="views-field views-field-product-image"> <span class="field-content"><a href="https://www.amazon.com/Year-With-Swollen-Appendices-Brian/dp/0571179959%3FSubscriptionId%3DAKIAIUDIBB5W2YOHL3CQ%26tag%3Dedgeorg-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0571179959"><img height="160" width="115" typeof="foaf:Image" class="image-style-none" src="http://ecx.images-amazon.com/images/I/41%2BnvFPJmUL._SL160_.jpg"/></a></span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="https://www.amazon.com/Year-With-Swollen-Appendices-Brian/dp/0571179959%3FSubscriptionId%3DAKIAIUDIBB5W2YOHL3CQ%26tag%3Dedgeorg-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0571179959">A Year With Swollen Appendices: Brian Eno's...</a></span> </div>
+<span class="views-field views-field-field-authorship"> <span class="field-content">By</span> </span>
+<span class="views-field views-field-nothing author"> <span class="field-content"><a href="/memberbio/brian_eno">Brian Eno</a></span> </span>
+<span class="views-field views-field-binding"> <span class="field-content">Paperback</span> </span>
+<span class="views-field views-field-publicationdate"> <span class="field-content">[1996]</span> </span> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div> </div>
+</div>
+<div id="block-edge-utils-conversations-at-edge" class="block block-edge-utils coversations-at-edge">
+<h2 class="block-title">Conversations at Edge</h2>
+<div class="content" class="block-content content">
+<ul class="related-conversations"><li class="related-conversation"><div class="title"><a href="/conversation/george_dyson-brian_eno-daniel_l_everett-sam_harris-hans_ulrich_obrist-dimitar_d" class="title">SCIENCE IS THE ONLY NEWS</a></div><div class="author"><span class="byline">featuring&nbsp;</span><a href="/memberbio/george_dyson" class="title"><span class="author">George&nbsp;Dyson</span></a>,&nbsp;<a href="/memberbio/brian_eno" class="title"><span class="author">Brian&nbsp;Eno</span></a>,&nbsp;<a href="/memberbio/daniel_l_everett" class="title"><span class="author">Daniel&nbsp;L.&nbsp;Everett</span></a>,&nbsp;<a href="/memberbio/sam_harris" class="title"><span class="author">Sam&nbsp;Harris</span></a>,&nbsp;<a href="/memberbio/hans_ulrich_obrist" class="title"><span class="author">Hans Ulrich&nbsp;Obrist</span></a>,&nbsp;<a href="/memberbio/dimitar_d_sasselov" class="title"><span class="author">Dimitar&nbsp;D.&nbsp;Sasselov</span></a>,&nbsp;<a href="/memberbio/christopher_stringer" class="title"><span class="author">Christopher&nbsp;Stringer</span></a>,&nbsp;<a href="/memberbio/elaine_pagels" class="title"><span class="author">Elaine&nbsp;Pagels</span></a>,&nbsp;<a href="/memberbio/jonathan_haidt" class="title"><span class="author">Jonathan&nbsp;Haidt</span></a><span class="date"> [ 3.12.12 ] </span></li><li class="related-conversation"><div class="title"><a href="/conversation/brian_eno-jennifer_jacquet-a-rough-mix-brian-eno-jennifer-jacquet-an-edge-conversation" class="title">A Rough Mix: Brian Eno & Jennifer Jacquet An Edge Conversation</a></div><div class"sub-title">An Edge Conversation</div><div class="author"><a href="/memberbio/brian_eno" class="title"><span class="author">Brian&nbsp;Eno</span></a>,&nbsp;<a href="/memberbio/jennifer_jacquet" class="title"><span class="author">Jennifer&nbsp;Jacquet</span></a><span class="date"> [ 11.22.11 ] </span></li><li class="related-conversation"><div class="title"><a href="/conversation/brian_eno-hans_ulrich_obrist-mark_pagel-jennifer_jacquet-john_brockman-information" class="title">Information Gardens</a></div><div class="author"><a href="/memberbio/brian_eno" class="title"><span class="author">Brian&nbsp;Eno</span></a>,&nbsp;<a href="/memberbio/hans_ulrich_obrist" class="title"><span class="author">Hans Ulrich&nbsp;Obrist</span></a>,&nbsp;<a href="/memberbio/mark_pagel" class="title"><span class="author">Mark&nbsp;Pagel</span></a>,&nbsp;<a href="/memberbio/jennifer_jacquet" class="title"><span class="author">Jennifer&nbsp;Jacquet</span></a>,&nbsp;<a href="/memberbio/john_brockman" class="title"><span class="author">John&nbsp;Brockman</span></a><span class="date"> [ 10.16.11 ] </span></li><li class="related-conversation"><div class="title"><a href="/conversation/brian_eno-a-big-theory-of-culture" class="title">A Big Theory Of Culture</a></div><div class="author"><span class="byline">A Talk With&nbsp;</span><a href="/memberbio/brian_eno" class="title"><span class="author">Brian&nbsp;Eno</span></a><span class="date"> [ 3.31.97 ] </span></li></ul>  </div>
+</div>
+<div id="block-views-ec0a81d45265ea98d0d3c93cda49cc7b" class="block block-views">
+
+    <h2 class="block-title">Tags</h2>
+  
+  <div class="content" class="block-content content">
+    <div class="view view-people-conversation-topics view-id-people_conversation_topics view-display-id-block_conversation_tags view-dom-id-f0367b92ce4cca0dc640a9efcdc860fa">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <span class="views-field views-field-name">        <span class="field-content"><a href="/conversations/tag/serpentine-gallery">serpentine gallery</a></span>  </span>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+</div></div>
+  </div><!-- /end #columns -->
+
+  <!-- region: Tertiary Content -->
+  
+  <!-- region: Footer -->
+      <footer id="footer" class="clearfix" role="contentinfo">
+      <div class="region region-footer"><div class="region-inner clearfix"><div id="block-block-3" class="block block-block edge-footer no-title">
+
+    
+  <div class="content" class="block-content content">
+    <div>
+	<div id="Footer1">
+		<ul>
+			<li class="dot">
+				<a href="/memberbio/john_brockman">John Brockman</a>, Editor and Publisher</li>
+			<li>
+				<a href="/memberbio/russell_weinberger">Russell Weinberger</a>, Associate Publisher</li>
+			<li>
+				<a href="/memberbio/nina_stegeman">Nina Stegeman</a>, Associate Editor</li>
+		</ul>
+	</div>
+	<div class="clearfix">
+		&nbsp;</div>
+	<div id="Footer2">
+		<ul>
+			<li>
+				Contact Info:<a href="/cdn-cgi/l/email-protection#3c59585548534e7c59585b5912534e5b"><span class="__cf_email__" data-cfemail="3451505d405b4674515053511a5b4653">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a></li>
+			<li>
+				<a href="/edgenews">In the News</a></li>
+			<!--<li><a href="/subscribe">Manage Email Subscription</a></li>-->
+			<li>
+				<a  href="/newsletter/subscribe" name="subscription-form"  title="Subscribe to Edge">Get Edge.org by email</a></li>
+		</ul>
+	</div>
+	<div class="clearfix">
+		&nbsp;</div>
+	<div id="Footer3">
+		Edge.org is a nonprofit private operating foundation under Section 501(c)(3) of the Internal Revenue Code.<br />
+		Copyright &copy; 2017 By Edge Foundation, Inc All Rights Reserved.</div>
+</div>
+<p>&nbsp;</p>
+  </div>
+</div>
+</div></div>    </footer>
+  
+</div>
+  
+  <script data-rocketsrc="https://www.edge.org/sites/default/files/js/js_vJGndrTbAmW0RIFCWCWGXKwRNRHzkrlXQrzG-5l9wFk.js" type="text/rocketscript"></script>
+<script data-rocketsrc="https://www.edge.org/sites/default/files/js/js_q7lS6C8UEdtjVD69uTIYUvtJh4srkQbUgtmrz02fXls.js" type="text/rocketscript"></script>
+<script data-rocketsrc="https://www.edge.org/sites/default/files/js/js_ZcW7GPj-lBTdq14HzozaLfWfYQFXoVKaLwt0BJOAoQw.js" type="text/rocketscript"></script>
+<script data-rocketsrc="https://www.edge.org/sites/default/files/js/js_0QZ-iwOvE9_nv9WR4yzSEBl2oUCrSLGvAiXphJ9oZR0.js" type="text/rocketscript"></script>
+<script data-rocketsrc="https://www.edge.org/sites/all/modules/lightbox2/js/lightbox.js?1492374407" type="text/rocketscript"></script>
+<script data-rocketsrc="https://www.edge.org/sites/default/files/js/js_SJJYcy_1-K4wy_1svhWCttUlGZrTn9SboeQro5LCoqE.js" type="text/rocketscript"></script>
+<script data-rocketsrc="https://platform.linkedin.com/in.js?async=true" type="text/rocketscript"></script>
+<script data-rocketsrc="https://www.edge.org/sites/default/files/js/js_dXcOFRSxJpEigSPN41oSfqvCazOxS00hsDhgW4IAbZM.js" type="text/rocketscript"></script>
+<script type="text/rocketscript">var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-283521-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
+<script data-rocketsrc="https://www.edge.org/sites/default/files/js/js_a_XWH2S1EQaU85ypMDyQGiUfzPFez1IOZKxHnhGkv3E.js" type="text/rocketscript"></script>
+<script data-rocketsrc="https://www.edge.org/sites/default/files/js/js_LNcInGcDtcKzM4lG5ccX4EgA7KCvQqIAksrfR9Kw7t8.js" type="text/rocketscript"></script>
+<script type="text/rocketscript">jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"edge_adaptive","theme_token":"48WgyhgZ9T7NRvQxVvXvc3b7_nF0Am-UJ4fx9DhM1PM","js":{"sites\/all\/themes\/edge_adaptive\/scripts\/media_queries.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.5\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"sites\/all\/modules\/views\/js\/jquery.ui.dialog.patch.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/extlink\/extlink.js":1,"sites\/all\/modules\/accordion_blocks\/accordion_init.js":1,"sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/lightbox2\/js\/auto_image_handling.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/panels\/js\/panels.js":1,"sites\/all\/modules\/shorten\/shortener\/shortener.js":1,"sites\/all\/modules\/simple_dialog\/js\/simple_dialog.js":1,"sites\/all\/modules\/stickynav\/js\/stickynav.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"https:\/\/platform.linkedin.com\/in.js?async=true":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/service_links\/js\/google_plus_one.js":1,"sites\/all\/modules\/service_links\/js\/facebook_share.js":1,"sites\/all\/modules\/service_links\/js\/twitter_button.js":1,"sites\/all\/modules\/service_links\/js\/linkedin_share_button.js":1,"sites\/all\/modules\/service_links\/js\/pinterest_button.js":1,"sites\/all\/modules\/service_links\/js\/facebook_like.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"misc\/collapse.js":1,"sites\/all\/themes\/adaptivetheme\/at_core\/scripts\/scalefix.js":1,"sites\/all\/themes\/adaptivetheme\/at_core\/scripts\/onmediaquery.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/extlink\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/accordion_blocks\/accordion_init.css":1,"sites\/all\/modules\/amazon\/amazon.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/shorten\/shortener\/shortener.css":1,"sites\/all\/modules\/simple_dialog\/css\/simple_dialog.css":1,"sites\/all\/modules\/stickynav\/css\/stickynav.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/edge_adaptive\/css\/global.base.css":1,"sites\/all\/themes\/edge_adaptive\/css\/global.styles.css":1,"sites\/all\/themes\/edge_adaptive\/css\/edge.views.css":1,"sites\/all\/themes\/edge_adaptive\/css\/edge.modules.custom.css":1,"sites\/all\/themes\/edge_adaptive\/css\/edge.custom.css":1,"sites\/all\/themes\/edge_adaptive\/css\/ckeditor.css  stylesheets[screen][] = css\/edge.jquery.css":1,"sites\/all\/themes\/edge_adaptive\/css\/edge.mailchimpform.css":1,"sites\/all\/themes\/edge_adaptive\/css\/print.css":1,"public:\/\/adaptivetheme\/edge_adaptive_files\/edge_adaptive.responsive.layout.css":1,"sites\/all\/themes\/edge_adaptive\/css\/responsive.custom.css":1,"sites\/all\/themes\/edge_adaptive\/css\/responsive.smartphone.portrait.css":1,"sites\/all\/themes\/edge_adaptive\/css\/responsive.smartphone.landscape.css":1,"sites\/all\/themes\/edge_adaptive\/css\/responsive.tablet.portrait.css":1,"sites\/all\/themes\/edge_adaptive\/css\/responsive.tablet.landscape.css":1,"sites\/all\/themes\/edge_adaptive\/css\/responsive.desktop.css":1,"public:\/\/adaptivetheme\/edge_adaptive_files\/edge_adaptive.lt-ie9.layout.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":"lightbox_ungrouped","custom_trigger_classes":"img.lightbox","disable_for_gallery_lists":1,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false},"simpleDialog":{"classes":"","defaults":"width:300;height:auto;position:[center,60]","selector":"content","title":""},"stickynav":{"selector":"#primary-menu-bar"},"ws_fs":{"type":"button","app_id":"150123828484431","css":"vertical-align:top;"},"ws_fl":{"width":80,"height":21},"ws_gpo":{"size":"medium","annotation":"none","lang":"","callback":"","width":120},"ws_lsb":{"countmode":""},"ws_pb":{"countlayout":"none"},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:9daae7eabde3962e2a825627277c159c":{"view_name":"library","view_display_id":"block_conversation_books","view_args":"21443","view_path":"node\/21443","view_base_path":null,"view_dom_id":"9daae7eabde3962e2a825627277c159c","pager_element":0},"views_dom_id:ad77888fc9ca13691c112174eb399d36":{"view_name":"library","view_display_id":"block_conversation_books_by_contributor","view_args":"21443","view_path":"node\/21443","view_base_path":null,"view_dom_id":"ad77888fc9ca13691c112174eb399d36","pager_element":0}}},"extlink":{"extTarget":"_blank","extClass":"ext","extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"urlIsAjaxTrusted":{"\/search\/node":true}});</script>
+  <script data-rocketsrc="https://www.edge.org/sites/default/files/js/js_qCMW45HxWMrbBblGBPTepC-Yn8CfjsqkwFgCithhGlc.js" type="text/rocketscript"></script>
+<script type="text/rocketscript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/\>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script></body>
+</html>
