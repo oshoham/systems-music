@@ -1,6 +1,6 @@
 import '@mohayonao/web-audio-api-shim'
 
-import SAMPLE_LIBRARY from './sample-library'
+import SAMPLE_LIBRARY from './sonatina-sample-library'
 
 const OCTAVE = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B']
 
@@ -84,24 +84,24 @@ fetchSample('impulses/Hangar.wav').then(convolverBuffer => {
   convolver.buffer = convolverBuffer
   convolver.connect(audioContext.destination)
 
-  let instrument = 'Bass Trombone'
+  let instrument = 'Flutes (Staccato)'
 
   // Dbmaj7add9
-  startLoop(instrument, 'F4', convolver, 19.7, 4.0)
-  startLoop(instrument, 'Ab4', convolver, 17.8, 8.1)
-  startLoop(instrument, 'C5', convolver, 21.3, 5.6)
-  startLoop(instrument, 'Db5', convolver, 22.1, 12.6)
-  startLoop(instrument, 'Eb5', convolver, 18.4, 9.2)
-  startLoop(instrument, 'F5', convolver, 20.0, 14.1)
-  startLoop(instrument, 'Ab5', convolver, 17.7, 3.1)
+  // startLoop(instrument, 'F4', convolver, 19.7, 4.0)
+  // startLoop(instrument, 'Ab4', convolver, 17.8, 8.1)
+  // startLoop(instrument, 'C5', convolver, 21.3, 5.6)
+  // startLoop(instrument, 'Db5', convolver, 22.1, 12.6)
+  // startLoop(instrument, 'Eb5', convolver, 18.4, 9.2)
+  // startLoop(instrument, 'F5', convolver, 20.0, 14.1)
+  // startLoop(instrument, 'Ab5', convolver, 17.7, 3.1)
 
   // C#m9
-  // startLoop(instrument, 'C#4', convolver, 19.7, 4.0)
-  // startLoop(instrument, 'E4', convolver, 17.8, 8.1)
-  // startLoop(instrument, 'G#4', convolver, 21.3, 5.6)
-  // startLoop(instrument, 'B4', convolver, 22.1, 12.6)
-  // startLoop(instrument, 'D#5', convolver, 18.4, 9.2)
-  // startLoop(instrument, 'E5', convolver, 20.0, 14.1)
+  startLoop(instrument, 'C#4', convolver, 19.7, 4.0)
+  startLoop(instrument, 'E4', convolver, 17.8, 8.1)
+  startLoop(instrument, 'G#4', convolver, 21.3, 5.6)
+  startLoop(instrument, 'B4', convolver, 22.1, 12.6)
+  startLoop(instrument, 'D#5', convolver, 18.4, 9.2)
+  startLoop(instrument, 'E5', convolver, 20.0, 14.1)
 
   // Em9
   // startLoop(instrument, 'E4', convolver, 19.7, 4.0)
