@@ -84,7 +84,7 @@ fetchSample('impulses/Hangar.wav').then(convolverBuffer => {
   convolver.buffer = convolverBuffer
   convolver.connect(audioContext.destination)
 
-  let instrument = 'Flutes (Staccato)'
+  let instrument = 'Cor Anglais'
 
   // Dbmaj7add9
   // startLoop(instrument, 'F4', convolver, 19.7, 4.0)
