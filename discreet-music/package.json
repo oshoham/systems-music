@@ -1,0 +1,25 @@
+{
+  "name": "discreet-music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/app.bundle.js",
+  "scripts": {
+    "start": "webpack-dev-server --progress",
+    "build": "webpack -p"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mohayonao/web-audio-api-shim": "^0.3.0",
+    "nouislider": "^9.2.0",
+    "tone": "^0.10.0",
+    "whatwg-fetch": "^2.0.3"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.1",
+    "eslint": "^3.19.0",
+    "style-loader": "^0.17.0",
+    "webpack": "^2.4.1",
+    "webpack-dev-server": "^2.4.2"
+  }
+}

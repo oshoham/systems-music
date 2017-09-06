@@ -1,5 +1,7 @@
 import '@mohayonao/web-audio-api-shim'
 
+import Recorder from './recorder'
+
 import SAMPLE_LIBRARY from './sonatina-sample-library'
 
 const OCTAVE = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B']
@@ -79,23 +81,81 @@ function startLoop(instrument, note, destination, loopLengthSeconds, delaySecond
   setInterval(() => playSample(instrument, note, destination, delaySeconds), loopLengthSeconds * 1000)
 }
 
+const heading = document.createElement('h2')
+heading.textContent = 'Recordings'
+
+const recordingList = document.createElement('ul')
+
+let recorder
+
+function createDownloadLink() {
+  recorder && recorder.exportWAV(function(blob) {
+    var url = URL.createObjectURL(blob)
+    var li = document.createElement('li')
+    var au = document.createElement('audio')
+    var hf = document.createElement('a')
+
+    au.controls = true
+    au.src = url
+    hf.href = url
+    hf.download = new Date().toISOString() + '.wav'
+    hf.innerHTML = hf.download
+    li.appendChild(au)
+    li.appendChild(hf)
+    recordingList.appendChild(li)
+  })
+}
+
+const startButton = document.createElement('button')
+startButton.textContent = 'Start Recording'
+startButton.onclick = function startRecording() {
+  recorder && recorder.record()
+  startButton.disabled = true
+  stopButton.disabled = false
+}
+
+const stopButton = document.createElement('button')
+stopButton.textContent = 'Stop Recording'
+stopButton.onclick = function stopRecording() {
+  recorder && recorder.stop()
+  stopButton.disabled = true
+  startButton.disabled = false
+
+  createDownloadLink()
+
+  recorder.clear()
+}
+
+document.body.appendChild(startButton)
+document.body.appendChild(stopButton)
+document.body.appendChild(heading)
+document.body.appendChild(recordingList)
+
 fetchSample('impulses/Hangar.wav').then(convolverBuffer => {
   let convolver = audioContext.createConvolver()
   convolver.buffer = convolverBuffer
-  convolver.connect(audioContext.destination)
 
-  let instrument = 'Cor Anglais'
+  let gainNode = audioContext.createGain()
+  gainNode.gain.value = 0.1
+
+  convolver.connect(gainNode)
+  gainNode.connect(audioContext.destination)
+
+  recorder = new Recorder(convolver)
+
+  let instrument = 'Flute'
+  let instrument2 = 'Flute'
 
   // Dbmaj7add9
   // startLoop(instrument, 'F4', convolver, 19.7, 4.0)
-  // startLoop(instrument, 'Ab4', convolver, 17.8, 8.1)
+  // startLoop(instrument2, 'Ab4', convolver, 17.8, 8.1)
   // startLoop(instrument, 'C5', convolver, 21.3, 5.6)
-  // startLoop(instrument, 'Db5', convolver, 22.1, 12.6)
+  // startLoop(instrument2, 'Db5', convolver, 22.1, 12.6)
   // startLoop(instrument, 'Eb5', convolver, 18.4, 9.2)
-  // startLoop(instrument, 'F5', convolver, 20.0, 14.1)
+  // startLoop(instrument2, 'F5', convolver, 20.0, 14.1)
   // startLoop(instrument, 'Ab5', convolver, 17.7, 3.1)
 
-  // C#m9
+  // C#m
   startLoop(instrument, 'C#4', convolver, 19.7, 4.0)
   startLoop(instrument, 'E4', convolver, 17.8, 8.1)
   startLoop(instrument, 'G#4', convolver, 21.3, 5.6)
